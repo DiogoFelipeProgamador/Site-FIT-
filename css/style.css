@@ -443,136 +443,6 @@ background-color: rgb(224, 115, 13);
     color: white;
 }
 
-.dados-imc h1:nth-of-type(1){
-    display: flex;
-    justify-content:center;
-    align-items: column;
-    color: white;
-}
-
-.titulo-do-tmb{
-    color: white;
-    margin-top: 30px;
-}
-
-#titulo-fc-ideal{
-    color: white;
-    padding: 30px 0;
-}
-
-.alimentacao{
-    width: 100%;
-    height: auto;
-    text-align: center;
-}
-
-.box-text{
-    width: 300px;
-    text-align: center;
-    margin: 0 auto;
-    background-color: rgb(28, 75, 100);
-    color: white;
-    border-radius: 10px;
-    height: 40px;
-}
-
-.box-text h1{
-    text-align: center;
-    padding: 3px 0;
-}
-
-.alimentacao-explicacao{
-    padding: 10px 0;
-    width: 100%;
-}
-
-.box-img-explicacao{
-    width: 33.3%;
-    height: 300px;
-    border: 1px solid white;
-    
-}
-
-.img-explicacao{
-    display: flex;
-    justify-content: space-between;
-    padding: 10px 0;
-}
-
-.box-img-explicacao:nth-of-type(1){
-    background-image: url(../imagens/img-alimentacao-box1.jpg);
-    background-size: cover;
-    
-}
-
-.box-img-explicacao:nth-of-type(2){
-    background-image: url(../imagens/img-alimentacao-box2.jpg);
-    background-size: cover;
-}
-
-.box-img-explicacao:nth-of-type(3){
-    background-image: url(../imagens/img-alimentacao-box3.jpg);
-    background-size: cover;
-}
-
-.texto-sobre-alimentacao .exp{
-    padding: 10px 0;
-}
-
-.texto-sobre-alimentacao p{
-    padding: 10px 0;
-}
-
-.exercicios-texto-explicacao{
-    width: 100%;
-    height: auto;
-    text-align: center;
-    padding: 10px 0;
-}
-
-.img-explicacao-exercicios{
-    display: flex;
-    justify-content: space-between;
-    padding: 10px 0;
-}
-
-.box-img-exercicios{
-    width: 33.3%;
-    height: 300px;
-    border: 1px solid white;
-}
-
-.box-img-exercicios:nth-of-type(1){
-    background-image: url(../imagens/exercicios-img-box1.jpg);
-    background-size: cover;
-}
-
-.box-img-exercicios:nth-of-type(2){
-    background-image:url(../imagens/exercicios-img-box2.jpg);
-    background-size: cover;
-}
-
-.box-img-exercicios:nth-of-type(3){
-    background-image: url(../imagens/exercicios-img-box3.jpg);
-    background-size: cover;
-}
-
-.explicacao-exercicios-text p{
-    padding: 10px 0;
-
-}
-
-
-
-
-
-
-
-
-
-
-
-
 
    
 
@@ -677,14 +547,8 @@ background-color: rgb(224, 115, 13);
         padding:0px 0;  
     }
 
-    .video-explicacao-alimentacao iframe{
-        width: 400px;
-    }
-
     
-    .video-exercicios-explicacao iframe{
-        width: 400px;
-    }
+    
 
 
 
