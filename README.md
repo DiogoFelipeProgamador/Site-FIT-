@@ -1,3 +1,4 @@
+#indice 
 1. INTRODUÇÃO 4
 1.1. PROPÓSITO DO DOCUMENTO DE REQUISITOS 4
 1.2. PÚBLICO ALVO 4
@@ -25,10 +26,6 @@
 4.5. DIAGRAMA DE SEQUÊNCIA 14
 4.6. OUTROS DIAGRAMAS 14
 5. APÊNDICE 15
-
-Empresa XXX
-&lt;Nome do projeto&gt; &lt;dia Mês, ano&gt;
-
 Documento de Especificação de Requisitos Página 4 de 15
 1. Introdução
 1.1. Propósito do Documento de Requisitos
