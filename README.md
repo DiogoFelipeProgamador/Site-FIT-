@@ -1,7 +1,7 @@
 # Site-FIT+
 Esse é um site  com proposito de ajudar pessoar a terem  uma rotina mais saudável ou não.
 # Requisitos:
-.Informar sobre os benefícios da alimentação saúdavel e da pratica de exercicios regurlamente.
+.Informar sobre os benefícios da alimentação saúdavel e da pratica de exercicios regurlamente.<br>
 .Conter meios para que os usuarios possam caucular o IMC, TMB e FC IDEAL.
 .Conter informações sobre alimentação e exercícios.
 .Ser Interativo.
