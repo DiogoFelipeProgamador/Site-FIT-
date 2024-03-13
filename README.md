@@ -9,7 +9,7 @@ Esse é um site  com proposito de ajudar pessoar a terem  uma rotina mais saudá
 .Ser de facil uso.<br>
 .Ajudar o usuario a ter mais segurança para mudar sua rotina.<br>
 
-# Empicilhos:
+# Empecilhos:
 .Não possuimos um conhecimento avançado em programação.<br>
 .Algumas ideias não são posiveis de ser implementadas por não ter qualificação tecnica.<br>
 
