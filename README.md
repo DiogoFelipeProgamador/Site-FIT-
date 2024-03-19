@@ -17,7 +17,7 @@ SITE-FIT-PLUS                                                                   
 
 
 
-`						`<FITNESS-PLUS>
+						<FITNESS-PLUS>
 
 Documento de especificação de  
 
@@ -57,15 +57,15 @@ requisitos
 
 
 
-`			       `ÍNDICE
+			       ÍNDICE
 
-1. ` `INTRODUÇÃO
+1.  INTRODUÇÃO
 
-`	`1.1. PROPÓSITO DO DOCUMENTO DE REQUISITOS 
+	1.1. PROPÓSITO DO DOCUMENTO DE REQUISITOS 
 
-`	`1.2. PÚBLICO ALVO
+	1.2. PÚBLICO ALVO
 
-`	`1.3. DEFINIÇÕES, ACRÔNIMOS E ABREVIAÇÕES.
+	1.3. DEFINIÇÕES, ACRÔNIMOS E ABREVIAÇÕES.
 
 
 
@@ -87,7 +87,7 @@ requisitos
 
 
 
-1. ` `REQUISITOS ESPECÍFICOS
+1.  REQUISITOS ESPECÍFICOS
 
  
 
@@ -113,7 +113,7 @@ requisitos
 
 1\.1.  Propósito do documento de requisitos
 
-`     `Esse projeto tem como  objetivo ajudar os usuários a terem uma rotina mais saudável então deverá conter obrigatoriamente os requisitos abaixo:
+     Esse projeto tem como  objetivo ajudar os usuários a terem uma rotina mais saudável então deverá conter obrigatoriamente os requisitos abaixo:
 
 **ALIMENTAÇÃO:** O site deverá conter uma parte destinada ao auxílio alimentar, onde o usuário poderá obter informações sobre  como se alimentar saudavelmente de acordo com especialistas da  área, essa parte também deverá conter um vídeo que auxilie o usuário. Será acessada por um botão localizado no menu principal do site e em outro localizado após a explicação das funcionalidades do site.
 
@@ -145,15 +145,15 @@ Resultado maior que 40 deverá exibir que o usuário está com obesidade mórbid
 
 1\.2.  Público alvo
 
-`   `Esse site tem como público alvo pessoas que buscam informações sobre uma rotina mais saudável.
+   Esse site tem como público alvo pessoas que buscam informações sobre uma rotina mais saudável.
 
 1\.3. Definições, Acrônimos e Abreviações
 
-` `**IMC:** ÍNDICE DE MASSA CORPORAL.
+ **IMC:** ÍNDICE DE MASSA CORPORAL.
 
-` `**TMB:** TAXA METABÓLICA BASAL.
+ **TMB:** TAXA METABÓLICA BASAL.
 
-`  `**FC:** FREQUÊNCIA CARDÍACA.
+  **FC:** FREQUÊNCIA CARDÍACA.
 
 
 
@@ -184,25 +184,25 @@ Atualmente existem sites que contém informações sobre rotinas saudáveis mas 
 
 A FIT+ solicitou o desenvolvimento desse site. O site conterá informações e cálculos importantes relacionados a uma rotina mais saudável desde alimentação a cálculos
 
-` `Auxiliar o usuário a começar uma rotina mais saudável.
+ Auxiliar o usuário a começar uma rotina mais saudável.
 
-` `Melhorar o modelo de sites da mesma área de informação.
+ Melhorar o modelo de sites da mesma área de informação.
 
-` `Facilitar o acesso a esse tipo de informação.
+ Facilitar o acesso a esse tipo de informação.
 
-` `Conter a maioria de informações sobre esse modelo.
+ Conter a maioria de informações sobre esse modelo.
 
 2\.3. Benefícios do projeto
 
-` `Desenvolvimento de um website de fácil acesso que ajude todos, com as seguintes características:
+ Desenvolvimento de um website de fácil acesso que ajude todos, com as seguintes características:
 
-` `Interface de fácil uso.
+ Interface de fácil uso.
 
-` `Flexível.
+ Flexível.
 
-` `Utilizável em diversos dispositivos.
+ Utilizável em diversos dispositivos.
 
-` `Pouco uso do processamento dos hardwares.
+ Pouco uso do processamento dos hardwares.
 
 2\.4. Escopo
 
