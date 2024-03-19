@@ -58,7 +58,7 @@ requisitos
 
 
 
-`			       `<h1>ÍNDICE</h1>
+<h1 style"text-align:center">ÍNDICE</h1>
 
 1. ` `INTRODUÇÃO
 
