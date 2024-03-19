@@ -17,7 +17,7 @@ SITE-FIT-PLUS                                                                   
 
 
 
-						<FITNESS-PLUS>
+`						`<FITNESS-PLUS>
 
 Documento de especificação de  
 
@@ -32,14 +32,15 @@ requisitos
 
 
 
-      	HISTÓRICO DE REVISÕES DO DOCUMENTO
+`      	`HISTÓRICO DE REVISÕES DO DOCUMENTO
 
 
 
 
 
 
-|         Versão|            Data|             Autor|         Descrição|
+
+|`         `Versão|`            `Data|`             `Autor|`         `Descrição|
 | :- | :- | :- | :- |
 |||||
 |||||
@@ -57,45 +58,45 @@ requisitos
 
 
 
-			       ÍNDICE
+`			       `ÍNDICE
 
-1.  INTRODUÇÃO
+1. ` `INTRODUÇÃO
 
-	1.1. PROPÓSITO DO DOCUMENTO DE REQUISITOS 
+`	`1.1. PROPÓSITO DO DOCUMENTO DE REQUISITOS 
 
-	1.2. PÚBLICO ALVO
+`	`1.2. PÚBLICO ALVO
 
-	1.3. DEFINIÇÕES, ACRÔNIMOS E ABREVIAÇÕES.
+`	`1.3. DEFINIÇÕES, ACRÔNIMOS E ABREVIAÇÕES.
 
 
 
 1. DESCRIÇÃO  GERAL DO PRODUTO
 
-   2\.1. SITUAÇÃO ATUAL
+2\.1. SITUAÇÃO ATUAL
 
-   2\.2. OBJETIVOS DO PRODUTO
+2\.2. OBJETIVOS DO PRODUTO
 
-   2\.3. BENEFÍCIOS DO PROJETO
+2\.3. BENEFÍCIOS DO PROJETO
 
-   2\.4. ESCOPO
+2\.4. ESCOPO
 
-   2\.5. ATORES
+2\.5. ATORES
 
-   2\.6. PREMISSAS
+2\.6. PREMISSAS
 
-   2\.7. ITENS FORA DO ESCOPO
+2\.7. ITENS FORA DO ESCOPO
 
 
 
-1.  REQUISITOS ESPECÍFICOS
+1. ` `REQUISITOS ESPECÍFICOS
 
- 
 
-   3\.1. REQUISITOS FUNCIONAIS
 
-   3\.2. REQUISITOS NÃO FUNCIONAIS
+3\.1. REQUISITOS FUNCIONAIS
 
-   3\.3. REGRAS DE NEGÓCIO
+3\.2. REQUISITOS NÃO FUNCIONAIS
+
+3\.3. REGRAS DE NEGÓCIO
 
 
 
@@ -113,7 +114,7 @@ requisitos
 
 1\.1.  Propósito do documento de requisitos
 
-     Esse projeto tem como  objetivo ajudar os usuários a terem uma rotina mais saudável então deverá conter obrigatoriamente os requisitos abaixo:
+`     `Esse projeto tem como  objetivo ajudar os usuários a terem uma rotina mais saudável então deverá conter obrigatoriamente os requisitos abaixo:
 
 **ALIMENTAÇÃO:** O site deverá conter uma parte destinada ao auxílio alimentar, onde o usuário poderá obter informações sobre  como se alimentar saudavelmente de acordo com especialistas da  área, essa parte também deverá conter um vídeo que auxilie o usuário. Será acessada por um botão localizado no menu principal do site e em outro localizado após a explicação das funcionalidades do site.
 
@@ -145,15 +146,15 @@ Resultado maior que 40 deverá exibir que o usuário está com obesidade mórbid
 
 1\.2.  Público alvo
 
-   Esse site tem como público alvo pessoas que buscam informações sobre uma rotina mais saudável.
+`   `Esse site tem como público alvo pessoas que buscam informações sobre uma rotina mais saudável.
 
 1\.3. Definições, Acrônimos e Abreviações
 
- **IMC:** ÍNDICE DE MASSA CORPORAL.
+` `**IMC:** ÍNDICE DE MASSA CORPORAL.
 
- **TMB:** TAXA METABÓLICA BASAL.
+` `**TMB:** TAXA METABÓLICA BASAL.
 
-  **FC:** FREQUÊNCIA CARDÍACA.
+`  `**FC:** FREQUÊNCIA CARDÍACA.
 
 
 
@@ -184,31 +185,32 @@ Atualmente existem sites que contém informações sobre rotinas saudáveis mas 
 
 A FIT+ solicitou o desenvolvimento desse site. O site conterá informações e cálculos importantes relacionados a uma rotina mais saudável desde alimentação a cálculos
 
- Auxiliar o usuário a começar uma rotina mais saudável.
+` `Auxiliar o usuário a começar uma rotina mais saudável.
 
- Melhorar o modelo de sites da mesma área de informação.
+` `Melhorar o modelo de sites da mesma área de informação.
 
- Facilitar o acesso a esse tipo de informação.
+` `Facilitar o acesso a esse tipo de informação.
 
- Conter a maioria de informações sobre esse modelo.
+` `Conter a maioria de informações sobre esse modelo.
 
 2\.3. Benefícios do projeto
 
- Desenvolvimento de um website de fácil acesso que ajude todos, com as seguintes características:
+` `Desenvolvimento de um website de fácil acesso que ajude todos, com as seguintes características:
 
- Interface de fácil uso.
+` `Interface de fácil uso.
 
- Flexível.
+` `Flexível.
 
- Utilizável em diversos dispositivos.
+` `Utilizável em diversos dispositivos.
 
- Pouco uso do processamento dos hardwares.
+` `Pouco uso do processamento dos hardwares.
 
 2\.4. Escopo
 
 Esse projeto trata-se da criação de um web site, utilizando se o ciclo completo de desenvolvimento de sistema
 
 O escopo do futuro website Fitness Plus envolve as seguintes macro-funcionalidades: 
+
 
 |`   `Nº            |`   `Módulo|`                 `Descrição|
 | :- | :- | :- |
@@ -220,6 +222,7 @@ O escopo do futuro website Fitness Plus envolve as seguintes macro-funcionalidad
 ||||
 
 2\.5. Atores
+
 
 |`  `Nº                              |`                `Ator|Definição e Privilégio de Acesso e Segurança|
 | :- | :- | :- |
@@ -267,6 +270,7 @@ Utilização de bots com IA.
 3\.1. Requisitos Funcionais
 
 
+
 |`  `ID                       |Descrição |
 | :- | :- |
 |RF 01|O site deverá alterar o menu de acordo com o tamanho da tela.|
@@ -277,6 +281,7 @@ Utilização de bots com IA.
 3\.2. Requisitos Não Funcionais
 
 
+
 |ID|` `Descrição|Categoria|
 | :- | :- | :- |
 |RNF 1 |O site terá deverá usar botões padronizados da empresa|Padrões |
@@ -285,6 +290,7 @@ Utilização de bots com IA.
 
 
 3\.3. Regras de Negócio
+
 
 
 |`   `ID|` `Nome|Descrição|
@@ -308,4 +314,4 @@ Utilização de bots com IA.
 
 Documento de especificação de requisitos                                                                                                      
 
-página  de 15
+página 9 de 15
