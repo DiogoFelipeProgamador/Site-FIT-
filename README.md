@@ -17,7 +17,7 @@ SITE-FIT-PLUS                                                                   
 
 
 
-`						`<FITNESS-PLUS>
+<FITNESS-PLUS>
 
 <h1>Documento de especificação de  
 requisitos</h1>                                                                             		
