@@ -113,7 +113,7 @@ requisitos
 
 1\.1.  Propósito do documento de requisitos
 
-     Esse projeto tem como  objetivo ajudar os usuários a terem uma rotina mais saudável então deverá conter obrigatoriamente os requisitos abaixo
+     Esse projeto tem como  objetivo ajudar os usuários a terem uma rotina mais saudável então deverá conter obrigatoriamente os requisitos abaixo:
 
 **ALIMENTAÇÃO:** O site deverá conter uma parte destinada ao auxílio alimentar, onde o usuário poderá obter informações sobre  como se alimentar saudavelmente de acordo com especialistas da  área, essa parte também deverá conter um vídeo que auxilie o usuário. Será acessada por um botão localizado no menu principal do site e em outro localizado após a explicação das funcionalidades do site.
 
