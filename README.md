@@ -55,7 +55,7 @@ requisitos
 
 
 
-			       `ÍNDICE
+			       ÍNDICE
 
 1. ` `INTRODUÇÃO
 
