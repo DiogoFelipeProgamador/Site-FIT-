@@ -40,7 +40,7 @@ requisitos
 
 
 
-|`         `Versão|`            `Data|`             `Autor|`         `Descrição|
+|Versão|            Data|             Autor|         Descrição|
 | :- | :- | :- | :- |
 |||||
 |||||
@@ -58,7 +58,7 @@ requisitos
 
 
 
-<h1 style"text-align:center">ÍNDICE</h1>
+<h1 style>ÍNDICE</h1>
 
 1. ` `INTRODUÇÃO
 
