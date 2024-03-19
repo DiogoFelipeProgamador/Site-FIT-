@@ -39,7 +39,7 @@ requisitos
 
 
 
-|`         `Versão|`            `Data|`             `Autor|`         `Descrição|
+|         Versão|            Data|             Autor|         Descrição|
 | :- | :- | :- | :- |
 |||||
 |||||
