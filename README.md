@@ -17,12 +17,10 @@ SITE-FIT-PLUS                                                                   
 
 
 
-`						`<FITNESS-PLUS>
+<FITNESS-PLUS>
 
-Documento de especificação de  
-
-requisitos                                                                             		
-
+<h1>Documento de especificação de  
+requisitos</h1>                                                                             		
 
 
 
@@ -32,7 +30,8 @@ requisitos
 
 
 
-`      	`HISTÓRICO DE REVISÕES DO DOCUMENTO
+
+HISTÓRICO DE REVISÕES DO DOCUMENTO
 
 
 
@@ -40,7 +39,7 @@ requisitos
 
 
 
-|`         `Versão|`            `Data|`             `Autor|`         `Descrição|
+|Versão|            Data|             Autor|         Descrição|
 | :- | :- | :- | :- |
 |||||
 |||||
@@ -58,19 +57,19 @@ requisitos
 
 
 
-`			       `ÍNDICE
+<h1 style>ÍNDICE</h1>
 
-1. ` `INTRODUÇÃO
+# 1. INTRODUÇÃO
 
-`	`1.1. PROPÓSITO DO DOCUMENTO DE REQUISITOS 
+1.1. PROPÓSITO DO DOCUMENTO DE REQUISITOS 
 
-`	`1.2. PÚBLICO ALVO
+1.2. PÚBLICO ALVO
 
-`	`1.3. DEFINIÇÕES, ACRÔNIMOS E ABREVIAÇÕES.
+1.3. DEFINIÇÕES, ACRÔNIMOS E ABREVIAÇÕES.
 
 
 
-1. DESCRIÇÃO  GERAL DO PRODUTO
+# 2. DESCRIÇÃO  GERAL DO PRODUTO
 
 2\.1. SITUAÇÃO ATUAL
 
@@ -88,7 +87,7 @@ requisitos
 
 
 
-1. ` `REQUISITOS ESPECÍFICOS
+# 3. REQUISITOS ESPECÍFICOS
 
 
 
