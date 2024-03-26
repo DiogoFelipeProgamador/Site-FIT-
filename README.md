@@ -1,3 +1,4 @@
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=A%20FAZER&color=GREEN&style=for-the-badge)
 Projeto A3 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -11,7 +12,7 @@ SITE-FIT-PLUS                                                                   
 
 
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
 
 
 
