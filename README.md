@@ -7,7 +7,7 @@ SITE-FIT-PLUS                                                                   
 
 # Índice 
 * [STATUS DO PROJETO](#status)
-* [INTRODUÇÃO](#INTRODUÇÃO)
+* [INTRODUÇÃO](#Introdução)
 * [Badges](#badges)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
