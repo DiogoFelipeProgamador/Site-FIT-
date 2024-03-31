@@ -191,35 +191,35 @@ Esse site tem como público alvo pessoas que buscam informações sobre uma roti
 
 
 
-2\.1. Situação atual
+### 2\.1. Situação atual
 
 Atualmente existem sites que contém informações sobre rotinas saudáveis mas não juntam todas as informações importantes como: Alimentação, Exercícios e cálculos IMC, TMB e FC IDEAL, dificultando o usuário de obter informações pois tem que acessar vários sites para conseguir todas essas informações.
 
-2\.2. Objetivos do Produto
+### 2\.2. Objetivos do Produto
 
 A FIT+ solicitou o desenvolvimento desse site. O site conterá informações e cálculos importantes relacionados a uma rotina mais saudável desde alimentação a cálculos
 
-` `Auxiliar o usuário a começar uma rotina mais saudável.
+Auxiliar o usuário a começar uma rotina mais saudável.
 
-` `Melhorar o modelo de sites da mesma área de informação.
+Melhorar o modelo de sites da mesma área de informação.
 
-` `Facilitar o acesso a esse tipo de informação.
+Facilitar o acesso a esse tipo de informação.
 
-` `Conter a maioria de informações sobre esse modelo.
+Conter a maioria de informações sobre esse modelo.
 
-2\.3. Benefícios do projeto
+### 2\.3. Benefícios do projeto
 
-` `Desenvolvimento de um website de fácil acesso que ajude todos, com as seguintes características:
+Desenvolvimento de um website de fácil acesso que ajude todos, com as seguintes características:
 
-` `Interface de fácil uso.
+Interface de fácil uso.
 
-` `Flexível.
+Flexível.
 
-` `Utilizável em diversos dispositivos.
+Utilizável em diversos dispositivos.
 
-` `Pouco uso do processamento dos hardwares.
+Pouco uso do processamento dos hardwares.
 
-2\.4. Escopo
+### 2\.4. Escopo
 
 Esse projeto trata-se da criação de um web site, utilizando se o ciclo completo de desenvolvimento de sistema
 
