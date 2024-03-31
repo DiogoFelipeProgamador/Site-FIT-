@@ -316,13 +316,13 @@ Utilização de bots com IA.
 
 |ID|Nome|Descrição|
 | :- | :- | :- |
-|RN' '1|Testes|Os cálculos serão realizados após o usuário confirmar os dados.|
-|RN' '2|Textos|Os textos serão pegos de especialistas.|
-|RN' '3|Vídeos|Os vídeos serão integrados do youtube para o site.|
-|RN' '4|Cálculos|Os cálculos utilizaram altura em metro e peso em kg.|
-|RN''5|TMB|O cálculo do TMB será realizado utilizando a fórmula (se do sexo masculino 88,362 + (13,397 * Peso em KG) + (4,799 * Altura em CM) - (5,677 * Idade em anos), se do sexo feminino 447,593 + (9,247 * Peso em KG) + (3,098 * Altura em CM) - (4,330 - Idade em anos))|
-|RN' '6|IMC|O cálculo do IMC será realizado utilizando a fórmula(Peso em KG / Altura²)|
-|RN' '7|FC|O cálculo da FC será realizado utilizando a fórmula(se do sexo masculino (220 - Idade em anos) * 0,65 obtendo a FC mínima ideal para emagrecer e (220 - Idade em anos) * 0,70 obtendo a FC ideal para emagrecer, se do sexo feminino (226 - Idade em anos) * 0,65 obtendo a FC mínima ideal para emagrecer e (226 - Idade em anos) * 0,70 obtendo a FC ideal para emagrecer)|
+|RN 1|Testes|Os cálculos serão realizados após o usuário confirmar os dados.|
+|RN 2|Textos|Os textos serão pegos de especialistas.|
+|RN 3|Vídeos|Os vídeos serão integrados do youtube para o site.|
+|RN 4|Cálculos|Os cálculos utilizaram altura em metro e peso em kg.|
+|RN 5|TMB|O cálculo do TMB será realizado utilizando a fórmula (se do sexo masculino 88,362 + (13,397 * Peso em KG) + (4,799 * Altura em CM) - (5,677 * Idade em anos), se do sexo feminino 447,593 + (9,247 * Peso em KG) + (3,098 * Altura em CM) - (4,330 - Idade em anos))|
+|RN 6|IMC|O cálculo do IMC será realizado utilizando a fórmula(Peso em KG / Altura²)|
+|RN 7|FC|O cálculo da FC será realizado utilizando a fórmula(se do sexo masculino (220 - Idade em anos) * 0,65 obtendo a FC mínima ideal para emagrecer e (220 - Idade em anos) * 0,70 obtendo a FC ideal para emagrecer, se do sexo feminino (226 - Idade em anos) * 0,65 obtendo a FC mínima ideal para emagrecer e (226 - Idade em anos) * 0,70 obtendo a FC ideal para emagrecer)|
 
 
 
