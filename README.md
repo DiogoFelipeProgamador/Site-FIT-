@@ -126,7 +126,7 @@ HISTÓRICO DE REVISÕES DO DOCUMENTO
 # 1\.       Introdução
 
 
-1\.1.  Propósito do documento de requisitos
+### 1\.1.  Propósito do documento de requisitos
 
 `     `Esse projeto tem como  objetivo ajudar os usuários a terem uma rotina mais saudável então deverá conter obrigatoriamente os requisitos abaixo:
 
