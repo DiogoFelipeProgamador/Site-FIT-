@@ -234,13 +234,13 @@ O escopo do futuro website Fitness Plus envolve as seguintes macro-funcionalidad
 
 
 
-2\.5. Atores
+### 2\.5. Atores
 
 
-|`  `Nº                              |`                `Ator|Definição e Privilégio de Acesso e Segurança|
+|Nº|Ator|Definição e Privilégio de Acesso e Segurança|
 | :- | :- | :- |
-|`   `1|`             `Usuário|Permissão para usar todas as funções do site.|
-|`   `2|`        `Desenvolvedor|Permissão para alteração e melhorias no site.|
+|1|Usuário|Permissão para usar todas as funções do site.|
+|2|Desenvolvedor|Permissão para alteração e melhorias no site.|
 
 
 2\.6. Premissas
