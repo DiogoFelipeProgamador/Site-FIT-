@@ -243,7 +243,7 @@ O escopo do futuro website Fitness Plus envolve as seguintes macro-funcionalidad
 |2|Desenvolvedor|Permissão para alteração e melhorias no site.|
 
 
-2\.6. Premissas
+### 2\.6. Premissas
 
 Será utilizado javascript para fazer os cálculos e transições.
 
@@ -253,7 +253,7 @@ A programação será realizada em html, css e javascript.
 
 O projeto é considerado de baixo porte e baixa complexidade.
 
-2\.7. Itens Fora do Escopo
+### 2\.7. Itens Fora do Escopo
 
 Desenvolvimento do site em outras linguagens fora o portugues.
 
@@ -276,41 +276,41 @@ Utilização de bots com IA.
 
 
 
-3\.   Requisitos Específicos
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-3\.1. Requisitos Funcionais
+# 3\.   Requisitos Específicos
 
 
 
-|`  `ID                       |Descrição |
+### 3\.1. Requisitos Funcionais
+
+
+
+|ID|Descrição |
 | :- | :- |
 |RF 01|O site deverá alterar o menu de acordo com o tamanho da tela.|
 |RF 02|O site utilizará transições que ajudem o usuário a mexer no menu.|
 |RF 03|O site indicará ao usuário botões utilizáveis. |
 
 
-3\.2. Requisitos Não Funcionais
+### 3\.2. Requisitos Não Funcionais
 
 
 
-|ID|` `Descrição|Categoria|
+|ID|Descrição|Categoria|
 | :- | :- | :- |
 |RNF 1 |O site terá deverá usar botões padronizados da empresa|Padrões |
 |RNF 2|O site terá atalhos em todos os menus |Usabilidade|
 |RNF 3|O site terá agilidade nos menus|Performance|
 
 
-3\.3. Regras de Negócio
+### 3\.3. Regras de Negócio
 
 
 
-|`   `ID|` `Nome|Descrição|
+|ID|Nome|Descrição|
 | :- | :- | :- |
-|`  `RN 1|` `Testes|Os cálculos serão realizados separadamente|
-|`  `RN 2|` `Textos|Os textos serão pegos de especialistas|
-|` `RN 3|` `Vídeos|Os vídeos serão integrados do youtube ao site|
+|RN 1|Testes|Os cálculos serão realizados separadamente|
+|RN 2|Textos|Os textos serão pegos de especialistas|
+|RN 3|Vídeos|Os vídeos serão integrados do youtube ao site|
 
 
 
@@ -323,7 +323,7 @@ Utilização de bots com IA.
 
 
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 
 Documento de especificação de requisitos                                                                                                      
 
