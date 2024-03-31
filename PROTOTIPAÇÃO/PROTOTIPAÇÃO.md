@@ -81,7 +81,7 @@
 
 
 
-**CÁLCULO DE TMB: Essa parte disponibilizará abas para o usuário preencher seus dados e realizar o cálculo de TMB**
+**CÁLCULO DE TMB: Essa parte disponibilizará abas para o usuário preencher seus dados e realizar o cálculo de TMB.**
 
 ![](./Imagens/página-TMB.png)
 
@@ -112,7 +112,7 @@
 
 
 
-**CÁLCULO DE FC IDEAL: Essa parte disponibilizará abas para o usuário preencher seus dados e realizar o cálculo de FC ideal**
+**CÁLCULO DE FC IDEAL: Essa parte disponibilizará abas para o usuário preencher seus dados e realizar o cálculo de FC ideal.**
 
 ![](./Imagens/página-FC-ideal.png)
 
@@ -141,7 +141,7 @@
 
 
 
-**PÁGINA DE LOGIN: Essa parte disponibilizará as opções do usuário já cadastrado preencha seus dados e entre em sua conta, usuários não cadastrados se cadastrarem e alterar a senha caso tenha esquecido**
+**PÁGINA DE LOGIN: Essa parte disponibilizará as opções do usuário já cadastrado preencha seus dados e entre em sua conta, usuários não cadastrados se cadastrarem e alterar a senha caso tenha esquecido.**
 
 ![](./Imagens/página-login.png)
 
@@ -152,14 +152,14 @@
 
 
 
-**PÁGINA DE CADASTRO: Essa parte disponibilizará uma área para que o usuário preencha os seus dados para realizar o cadastro**
+**PÁGINA DE CADASTRO: Essa parte disponibilizará uma área para que o usuário preencha os seus dados para realizar o cadastro.**
 
 ![](./Imagens/página-cadastro.png)
 
 
 <br>
 
-**PÁGINA DE TROCAR SENHA: Essa parte disponibilizará uma área para que o usuário indique seu e-mail para alterar sua senha**
+**PÁGINA DE TROCAR SENHA: Essa parte disponibilizará uma área para que o usuário indique seu e-mail para alterar sua senha.**
 
 
 ![](./Imagens/página-trocar-senha.png)
