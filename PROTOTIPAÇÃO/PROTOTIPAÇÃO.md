@@ -38,7 +38,7 @@
 
 
 
-**PÁGINA DOS CÁLCULOS: Essa parte permitirá e o usuário escolha cálculo que irá fazer:**
+**PÁGINA DOS CÁLCULOS: Essa parte permitirá e o usuário escolha cálculo que irá fazer**
 
 
 
