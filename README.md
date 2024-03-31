@@ -226,12 +226,12 @@ Esse projeto trata-se da criação de um web site, utilizando se o ciclo complet
 O escopo do futuro website Fitness Plus envolve as seguintes macro-funcionalidades: 
 
 
-|`   `Nº            |`   `Módulo|`                 `Descrição|
+|Nº|Módulo|Descrição|
 | :- | :- | :- |
-|`       `1|`  `Alimentação|Informar para o usuário sobre alimentação saudável com textos simples.|
-|`       `2|` `Exercícios|Informar sobre os benefícios do exercício físico e instruir o usuário sobre esse assunto.|
-|`    `3|` `Testes|<p>Fornecer ao usuário opções de cálculos que vão auxilia-lo a</p><p>entender melhor seu perfil. </p>|
-|`    `4|` `Home|Ao ser clicado retorna a página inicial do site.|
+|1|Alimentação|Informar para o usuário sobre alimentação saudável com textos simples.|
+|2|Exercícios|Informar sobre os benefícios do exercício físico e instruir o usuário sobre esse assunto.|
+|3|Testes|<p>Fornecer ao usuário opções de cálculos que vão auxilia-lo a</p><p>entender melhor seu perfil. </p>|
+|4|Home|Ao ser clicado retorna a página inicial do site.|
 ||||
 ||||
 
