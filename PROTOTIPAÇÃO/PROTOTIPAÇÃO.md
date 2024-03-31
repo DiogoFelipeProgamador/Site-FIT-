@@ -1,4 +1,4 @@
-**PROTOTIPAÇÃO**
+# PROTOTIPAÇÃO
 
 **PÁGINA INICIAL:**  A página inicial conterá informações sobre o site e suas funções e disponibilizará todas as opções no menu principal.
 
