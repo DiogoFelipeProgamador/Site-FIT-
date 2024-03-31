@@ -2,7 +2,7 @@
 
 **PÁGINA INICIAL: A página inicial conterá informações sobre o site e suas funções e disponibilizará todas as opções no menu principal.** 
 
-![](Aspose.Words.2f0814e6-1d23-457a-aaee-9690dcd54245.001.png)
+![](../Imagens/Aspose.Words.2f0814e6-1d23-457a-aaee-9690dcd54245.001.png)
 
 **ALIMENTAÇÃO: Essa parte conterá informações sobre alimentação saudável e um vídeo relacionado ao assunto.**
 
