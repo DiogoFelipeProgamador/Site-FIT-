@@ -286,9 +286,16 @@ Utilização de bots com IA.
 
 |ID|Descrição |
 | :- | :- |
-|RF 01|O site deverá alterar o menu de acordo com o tamanho da tela.|
-|RF 02|O site utilizará transições que ajudem o usuário a mexer no menu.|
-|RF 03|O site indicará ao usuário botões utilizáveis. |
+|RF 01|O sistema disponibilizará uma área para que o usuário tenha informações sobre alimentação.|
+|RF 02|O sistema disponibilizará uma área para que o usuário tenha informações sobre exercícios.|
+|RF 03|O sistema disponibilizará cálculos de IMC, TMB e FC ideal para o usuário.|
+|RF 04|O sistema disponibilizará uma área para cadastro do usuário.|
+|RF 05|O sistema disponibilizará questionários para o usuário receber melhores recomendações.|
+|RF 06|O sistema deverá enviar email aos usuários que se cadastrarem.|
+|RF 07|O sistema deverá enviar  anúncios para o usuário no seu e-mail.|
+|RF 08|O sistema deverá utilizar os dados do usuário para enviar informações sobre sua evolução.|
+|RF 09|O sistema deverá permitir que o usuário altere os seus dados cadastrados.|
+|RF 10|O sistema deverá permitir que o usuário troque de senha.|
 
 
 ### 3\.2. Requisitos Não Funcionais
@@ -297,10 +304,11 @@ Utilização de bots com IA.
 
 |ID|Descrição|Categoria|
 | :- | :- | :- |
-|RNF 1 |O site terá deverá usar botões padronizados da empresa|Padrões |
-|RNF 2|O site terá atalhos em todos os menus |Usabilidade|
-|RNF 3|O site terá agilidade nos menus|Performance|
-
+|RNF 1 |O site se modificará de acordo com a  resolução da tela  dos usuários.|Usabilidade |
+|RNF 2 |O site terá atalhos em todos os menus|Usabilidade|
+|RNF 3 |O site terá agilidade nos menus|Performance|
+|RNF 4 |O site proibirá scripts maliciosos.|Segurança |
+|RNF 5 |O site indicará todas  as opções clicáveis. |Usabilidade|
 
 ### 3\.3. Regras de Negócio
 
