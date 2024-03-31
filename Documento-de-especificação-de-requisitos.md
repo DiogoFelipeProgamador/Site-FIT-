@@ -1,12 +1,9 @@
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge) <br>
 Projeto A3 
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-SITE-FIT-PLUS                                                                                                  <03/01/2010>
 
 
-
-
+SITE-FIT-PLUS                                                                                                  <03/01/2024>
 
 
 
@@ -18,7 +15,7 @@ SITE-FIT-PLUS                                                                   
 
 
 <FITNESS-PLUS>
-
+<h1>FITNESS-PLUS</h1>
 <h1>Documento de especificação de  
 requisitos</h1>                                                                             		
 
@@ -61,29 +58,29 @@ HISTÓRICO DE REVISÕES DO DOCUMENTO
 
 # 1. INTRODUÇÃO
 
-1.1. PROPÓSITO DO DOCUMENTO DE REQUISITOS 
+### 1.1. PROPÓSITO DO DOCUMENTO DE REQUISITOS 
 
-1.2. PÚBLICO ALVO
+### 1.2. PÚBLICO ALVO
 
-1.3. DEFINIÇÕES, ACRÔNIMOS E ABREVIAÇÕES.
+### 1.3. DEFINIÇÕES, ACRÔNIMOS E ABREVIAÇÕES.
 
 
 
 # 2. DESCRIÇÃO  GERAL DO PRODUTO
 
-2\.1. SITUAÇÃO ATUAL
+### 2\.1. SITUAÇÃO ATUAL
 
-2\.2. OBJETIVOS DO PRODUTO
+### 2\.2. OBJETIVOS DO PRODUTO
 
-2\.3. BENEFÍCIOS DO PROJETO
+### 2\.3. BENEFÍCIOS DO PROJETO
 
-2\.4. ESCOPO
+### 2\.4. ESCOPO
 
-2\.5. ATORES
+### 2\.5. ATORES
 
-2\.6. PREMISSAS
+### 2\.6. PREMISSAS
 
-2\.7. ITENS FORA DO ESCOPO
+### 2\.7. ITENS FORA DO ESCOPO
 
 
 
@@ -91,29 +88,28 @@ HISTÓRICO DE REVISÕES DO DOCUMENTO
 
 
 
-3\.1. REQUISITOS FUNCIONAIS
+### 3\.1. REQUISITOS FUNCIONAIS
 
-3\.2. REQUISITOS NÃO FUNCIONAIS
+### 3\.2. REQUISITOS NÃO FUNCIONAIS
 
-3\.3. REGRAS DE NEGÓCIO
-
-
+### 3\.3. REGRAS DE NEGÓCIO
 
 
 
-
+<br>
 
 
 
 
 
-1\.       Introdução
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-1\.1.  Propósito do documento de requisitos
+# 1\.       Introdução
 
-`     `Esse projeto tem como  objetivo ajudar os usuários a terem uma rotina mais saudável então deverá conter obrigatoriamente os requisitos abaixo:
+
+### 1\.1.  Propósito do documento de requisitos
+
+Esse projeto tem como  objetivo ajudar os usuários a terem uma rotina mais saudável então deverá conter obrigatoriamente os requisitos abaixo:
 
 **ALIMENTAÇÃO:** O site deverá conter uma parte destinada ao auxílio alimentar, onde o usuário poderá obter informações sobre  como se alimentar saudavelmente de acordo com especialistas da  área, essa parte também deverá conter um vídeo que auxilie o usuário. Será acessada por um botão localizado no menu principal do site e em outro localizado após a explicação das funcionalidades do site.
 
@@ -143,19 +139,17 @@ Resultado maior que 40 deverá exibir que o usuário está com obesidade mórbid
 
 **LOGO:** A logo do site ao ser clicada redireciona o usuário a página principal do site.
 
-1\.2.  Público alvo
+### 1\.2.  Público alvo
 
-`   `Esse site tem como público alvo pessoas que buscam informações sobre uma rotina mais saudável.
+Esse site tem como público alvo pessoas que buscam informações sobre uma rotina mais saudável.
 
-1\.3. Definições, Acrônimos e Abreviações
+### 1\.3. Definições, Acrônimos e Abreviações
 
-` `**IMC:** ÍNDICE DE MASSA CORPORAL.
+**IMC:** ÍNDICE DE MASSA CORPORAL.
 
-` `**TMB:** TAXA METABÓLICA BASAL.
+**TMB:** TAXA METABÓLICA BASAL.
 
-`  `**FC:** FREQUÊNCIA CARDÍACA.
-
-
+**FC:** FREQUÊNCIA CARDÍACA.
 
 
 
@@ -172,64 +166,65 @@ Resultado maior que 40 deverá exibir que o usuário está com obesidade mórbid
 
 
 
-2\.    Descrição Geral do Produto
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-2\.1. Situação atual
+# 2\.    Descrição Geral do Produto
+
+
+
+### 2\.1. Situação atual
 
 Atualmente existem sites que contém informações sobre rotinas saudáveis mas não juntam todas as informações importantes como: Alimentação, Exercícios e cálculos IMC, TMB e FC IDEAL, dificultando o usuário de obter informações pois tem que acessar vários sites para conseguir todas essas informações.
 
-2\.2. Objetivos do Produto
+### 2\.2. Objetivos do Produto
 
 A FIT+ solicitou o desenvolvimento desse site. O site conterá informações e cálculos importantes relacionados a uma rotina mais saudável desde alimentação a cálculos
 
-` `Auxiliar o usuário a começar uma rotina mais saudável.
+Auxiliar o usuário a começar uma rotina mais saudável.
 
-` `Melhorar o modelo de sites da mesma área de informação.
+Melhorar o modelo de sites da mesma área de informação.
 
-` `Facilitar o acesso a esse tipo de informação.
+Facilitar o acesso a esse tipo de informação.
 
-` `Conter a maioria de informações sobre esse modelo.
+Conter a maioria de informações sobre esse modelo.
 
-2\.3. Benefícios do projeto
+### 2\.3. Benefícios do projeto
 
-` `Desenvolvimento de um website de fácil acesso que ajude todos, com as seguintes características:
+Desenvolvimento de um website de fácil acesso que ajude todos, com as seguintes características:
 
-` `Interface de fácil uso.
+Interface de fácil uso.
 
-` `Flexível.
+Flexível.
 
-` `Utilizável em diversos dispositivos.
+Utilizável em diversos dispositivos.
 
-` `Pouco uso do processamento dos hardwares.
+Pouco uso do processamento dos hardwares.
 
-2\.4. Escopo
+### 2\.4. Escopo
 
 Esse projeto trata-se da criação de um web site, utilizando se o ciclo completo de desenvolvimento de sistema
 
 O escopo do futuro website Fitness Plus envolve as seguintes macro-funcionalidades: 
 
 
-|`   `Nº            |`   `Módulo|`                 `Descrição|
+|Nº|Módulo|Descrição|
 | :- | :- | :- |
-|`       `1|`  `Alimentação|Informar para o usuário sobre alimentação saudável com textos simples.|
-|`       `2|` `Exercícios|Informar sobre os benefícios do exercício físico e instruir o usuário sobre esse assunto.|
-|`    `3|` `Testes|<p>Fornecer ao usuário opções de cálculos que vão auxilia-lo a</p><p>entender melhor seu perfil. </p>|
-|`    `4|` `Home|Ao ser clicado retorna a página inicial do site.|
-||||
-||||
-
-2\.5. Atores
+|1|Alimentação|Informar para o usuário sobre alimentação saudável com textos simples.|
+|2|Exercícios|Informar sobre os benefícios do exercício físico e instruir o usuário sobre esse assunto.|
+|3|Testes|<p>Fornecer ao usuário opções de cálculos que vão auxilia-lo a</p><p>entender melhor seu perfil. </p>|
 
 
-|`  `Nº                              |`                `Ator|Definição e Privilégio de Acesso e Segurança|
+
+### 2\.5. Atores
+
+
+|Nº|Ator|Definição e Privilégio de Acesso e Segurança|
 | :- | :- | :- |
-|`   `1|`             `Usuário|Permissão para usar todas as funções do site.|
-|`   `2|`        `Desenvolvedor|Permissão para alteração e melhorias no site.|
+|1|Usuário|Permissão para usar todas as funções do site.|
+|2|Desenvolvedor|Permissão para alteração e melhorias no site.|
 
 
-2\.6. Premissas
+### 2\.6. Premissas
 
 Será utilizado javascript para fazer os cálculos e transições.
 
@@ -239,7 +234,7 @@ A programação será realizada em html, css e javascript.
 
 O projeto é considerado de baixo porte e baixa complexidade.
 
-2\.7. Itens Fora do Escopo
+### 2\.7. Itens Fora do Escopo
 
 Desenvolvimento do site em outras linguagens fora o portugues.
 
@@ -262,41 +257,53 @@ Utilização de bots com IA.
 
 
 
-3\.   Requisitos Específicos
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-3\.1. Requisitos Funcionais
+# 3\.   Requisitos Específicos
 
 
 
-|`  `ID                       |Descrição |
+### 3\.1. Requisitos Funcionais
+
+
+
+|ID|Descrição |
 | :- | :- |
-|RF 01|O site deverá alterar o menu de acordo com o tamanho da tela.|
-|RF 02|O site utilizará transições que ajudem o usuário a mexer no menu.|
-|RF 03|O site indicará ao usuário botões utilizáveis. |
+|RF 01|O sistema disponibilizará uma área para que o usuário tenha informações sobre alimentação.|
+|RF 02|O sistema disponibilizará uma área para que o usuário tenha informações sobre exercícios.|
+|RF 03|O sistema disponibilizará cálculos de IMC, TMB e FC ideal para o usuário.|
+|RF 04|O sistema disponibilizará uma área para cadastro do usuário.|
+|RF 05|O sistema disponibilizará questionários para o usuário receber melhores recomendações.|
+|RF 06|O sistema deverá enviar email aos usuários que se cadastrarem.|
+|RF 07|O sistema deverá enviar  anúncios para o usuário no seu e-mail.|
+|RF 08|O sistema deverá utilizar os dados do usuário para enviar informações sobre sua evolução.|
+|RF 09|O sistema deverá permitir que o usuário altere os seus dados cadastrados.|
+|RF 10|O sistema deverá permitir que o usuário troque de senha.|
 
 
-3\.2. Requisitos Não Funcionais
+### 3\.2. Requisitos Não Funcionais
 
 
 
-|ID|` `Descrição|Categoria|
+|ID|Descrição|Categoria|
 | :- | :- | :- |
-|RNF 1 |O site terá deverá usar botões padronizados da empresa|Padrões |
-|RNF 2|O site terá atalhos em todos os menus |Usabilidade|
-|RNF 3|O site terá agilidade nos menus|Performance|
+|RNF 1 |O site se modificará de acordo com a  resolução da tela  dos usuários.|Usabilidade |
+|RNF 2 |O site terá atalhos em todos os menus|Usabilidade|
+|RNF 3 |O site terá agilidade nos menus|Performance|
+|RNF 4 |O site proibirá scripts maliciosos.|Segurança |
+|RNF 5 |O site indicará todas  as opções clicáveis. |Usabilidade|
+
+### 3\.3. Regras de Negócio
 
 
-3\.3. Regras de Negócio
 
-
-
-|`   `ID|` `Nome|Descrição|
+|ID|Nome|Descrição|
 | :- | :- | :- |
-|`  `RN 1|` `Testes|Os cálculos serão realizados separadamente|
-|`  `RN 2|` `Textos|Os textos serão pegos de especialistas|
-|` `RN 3|` `Vídeos|Os vídeos serão integrados do youtube ao site|
+|RN1|Testes|Os cálculos serão realizados após o usuário confirmar os dados.|
+|RN2|Textos|Os textos serão pegos de especialistas.|
+|RN3|Vídeos|Os vídeos serão integrados do youtube para o site.|
+|RN4|Cálculos|Os cálculos utilizaram altura em metro e peso em kg.|
+|RN5|TMB|O cálculo do TMB será realizado utilizando a fórmula (se do sexo masculino 88,362 + (13,397 * Peso em KG) + (4,799 * Altura em CM) - (5,677 * Idade em anos), se do sexo feminino 447,593 + (9,247 * Peso em KG) + (3,098 * Altura em CM) - (4,330 - Idade em anos))|
+|RN6|IMC|O cálculo do IMC será realizado utilizando a fórmula(Peso em KG / Altura²)|
+|RN7|FC|O cálculo da FC será realizado utilizando a fórmula(se do sexo masculino (220 - Idade em anos) * 0,65 obtendo a FC mínima ideal para emagrecer e (220 - Idade em anos) * 0,70 obtendo a FC ideal para emagrecer, se do sexo feminino (226 - Idade em anos) * 0,65 obtendo a FC mínima ideal para emagrecer e (226 - Idade em anos) * 0,70 obtendo a FC ideal para emagrecer)|
 
 
 
@@ -309,8 +316,9 @@ Utilização de bots com IA.
 
 
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Documento de especificação de requisitos                                                                                                      
 
-página 9 de 15
+                                                                                               
+
+
+
