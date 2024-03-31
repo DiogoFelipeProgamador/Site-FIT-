@@ -125,7 +125,6 @@ HISTÓRICO DE REVISÕES DO DOCUMENTO
 
 # 1\.       Introdução
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1\.1.  Propósito do documento de requisitos
 
