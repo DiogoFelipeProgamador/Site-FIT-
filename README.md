@@ -128,7 +128,7 @@ HISTÓRICO DE REVISÕES DO DOCUMENTO
 
 ### 1\.1.  Propósito do documento de requisitos
 
-`     `Esse projeto tem como  objetivo ajudar os usuários a terem uma rotina mais saudável então deverá conter obrigatoriamente os requisitos abaixo:
+Esse projeto tem como  objetivo ajudar os usuários a terem uma rotina mais saudável então deverá conter obrigatoriamente os requisitos abaixo:
 
 **ALIMENTAÇÃO:** O site deverá conter uma parte destinada ao auxílio alimentar, onde o usuário poderá obter informações sobre  como se alimentar saudavelmente de acordo com especialistas da  área, essa parte também deverá conter um vídeo que auxilie o usuário. Será acessada por um botão localizado no menu principal do site e em outro localizado após a explicação das funcionalidades do site.
 
@@ -158,17 +158,17 @@ Resultado maior que 40 deverá exibir que o usuário está com obesidade mórbid
 
 **LOGO:** A logo do site ao ser clicada redireciona o usuário a página principal do site.
 
-1\.2.  Público alvo
+### 1\.2.  Público alvo
 
-`   `Esse site tem como público alvo pessoas que buscam informações sobre uma rotina mais saudável.
+Esse site tem como público alvo pessoas que buscam informações sobre uma rotina mais saudável.
 
-1\.3. Definições, Acrônimos e Abreviações
+### 1\.3. Definições, Acrônimos e Abreviações
 
-` `**IMC:** ÍNDICE DE MASSA CORPORAL.
+**IMC:** ÍNDICE DE MASSA CORPORAL.
 
-` `**TMB:** TAXA METABÓLICA BASAL.
+**TMB:** TAXA METABÓLICA BASAL.
 
-`  `**FC:** FREQUÊNCIA CARDÍACA.
+**FC:** FREQUÊNCIA CARDÍACA.
 
 
 
