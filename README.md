@@ -187,9 +187,9 @@ Esse site tem como público alvo pessoas que buscam informações sobre uma roti
 
 
 
-2\.    Descrição Geral do Produto
+# 2\.    Descrição Geral do Produto
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 
 2\.1. Situação atual
 
