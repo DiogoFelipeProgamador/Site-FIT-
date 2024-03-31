@@ -74,5 +74,5 @@
 
 |**Requisito**|
 | :- |
-|**RNF4 - O site proibirá scripts maliciosos.**|
+|RNF4 - O site proibirá scripts maliciosos.|
 
