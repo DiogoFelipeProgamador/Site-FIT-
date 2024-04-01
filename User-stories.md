@@ -146,3 +146,66 @@ E é exibido na tela a mensagem Não é possível realizar o cadastro nome de us
 **POSSO** ter acesso a informações sobre exercícios
 
 **PARA QUE** eu entenda como me exercitar corretamente.
+
+<br>
+
+**SENDO** usuário cadastrado do sistema
+
+**POSSO** ter informações sobre minhas evoluções
+
+**PARA QUE** eu perceba o meu progresso
+
+**Cenário 1: Atualizei os dados**
+
+Dado que o sistema precisa da atualização dos dados para poder informar sobre as evoluções E eu atualizei os meus dados
+
+Quando entro na área do usuário
+
+Então a evolução é registrada
+
+E é exibido na tela os meus resultados
+
+
+**Cenário  2: Não atualização dos dados**
+
+Dado que o sistema precisa que o usuário responda os questionários para passar recomendações E eu não respondi os questionários
+
+Quando entro na área do usuário
+
+Então as recomendações não são geradas
+
+E é exibido na tela As recomendações serão exibidas após responder os questionários.
+
+<br>
+
+**SENDO**  usuário cadastrado do sistema 
+
+**POSSO** responder questionários
+
+**PARA QUE** eu receba do sistema recomendações
+
+**Cenário 1: Questionários respondidos**
+
+Dado que o sistema precisa que o usuário responda os questionários para passar recomendações E eu respondi os questionários
+
+Quando entro na área do usuário
+
+Então as recomendações são geradas
+
+E é exibido na tela as recomendações baseadas em minhas respostas
+
+
+**Cenário  2: Questionários sem respostas**
+
+Dado que o sistema precisa que o usuário responda os questionários para passar recomendações E eu não respondi os questionários
+
+Quando entro na área do usuário
+
+Então as recomendações não são geradas
+
+E é exibido na tela As recomendações serão exibidas após responder os questionários.
+
+
+
+
+
