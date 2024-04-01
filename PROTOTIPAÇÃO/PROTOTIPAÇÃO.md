@@ -169,19 +169,19 @@
 
 **PÁGINA DO USUÁRIO:** Essa parte disponibilizará a o usuário cadastrado as opções de alterar seus dados, ter informações sobre sua evolução e responder questionários para receber recomendações.
 
-![](./Imagens/página-trocar-senha.png)
+![](./Imagens/página-do-usuário.png)
 
 <br>
 
 **ALTERAÇÃO DE DADOS:** Essa parte disponibilizará a usuários cadastrados a opção de atualizar os seus dados para que o site consiga informar sobre sua evolução e alterar informações desatualizadas.
 
-![](./Imagens/página-trocar-senha.png)
+![](./Imagens/página-alteração-dados.png)
 
 <br>
 
 **QUESTIONÁRIOS:** Essa parte disponibilizará ao usuário questionários para que ele responda e o sistema consiga passar recomendações para ele.
 
-![](./Imagens/página-trocar-senha.png)
+![](./Imagens/página-dos-questionários.png)
 
 
 
