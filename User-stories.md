@@ -133,22 +133,6 @@ E é exibido na tela a mensagem Não é possível realizar o cadastro nome de us
 
 <br>
 
-**SENDO** usuário do sistema
-
-**POSSO** ter acesso a informações sobre alimentação
-
-**PARA QUE** eu entenda como me alimentar corretamente.
-
-<br>
-
-**SENDO** usuário do sistema
-
-**POSSO** ter acesso a informações sobre exercícios
-
-**PARA QUE** eu entenda como me exercitar corretamente.
-
-<br>
-
 **SENDO** usuário cadastrado do sistema
 
 **POSSO** ter informações sobre minhas evoluções
@@ -204,6 +188,25 @@ Quando entro na área do usuário
 Então as recomendações não são geradas
 
 E é exibido na tela As recomendações serão exibidas após responder os questionários.
+
+<br>
+
+**SENDO** usuário do sistema
+
+**POSSO** ter acesso a informações sobre alimentação
+
+**PARA QUE** eu entenda como me alimentar corretamente.
+
+<br>
+
+**SENDO** usuário do sistema
+
+**POSSO** ter acesso a informações sobre exercícios
+
+**PARA QUE** eu entenda como me exercitar corretamente.
+
+
+
 
 
 
