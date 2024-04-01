@@ -1,61 +1,16 @@
-**PROTOTIPAÇÃO**
+# PROTOTIPAÇÃO
 
-**PÁGINA INICIAL: A página inicial conterá informações sobre o site e suas funções e disponibilizará todas as opções no menu principal.** 
+**PÁGINA INICIAL:**  A página inicial conterá informações sobre o site e suas funções e disponibilizará todas as opções no menu principal.
 
-![](./Imagens/Aspose.Words.2f0814e6-1d23-457a-aaee-9690dcd54245.001.png)
-
-<br>
-
-**ALIMENTAÇÃO: Essa parte conterá informações sobre alimentação saudável e um vídeo relacionado ao assunto.**
-
-
-![](./Imagens/Aspose.Words.2f0814e6-1d23-457a-aaee-9690dcd54245.002.png)
+![](./Imagens/página-inicial.png)
 
 <br>
 
+**ALIMENTAÇÃO:**  Essa parte conterá informações sobre alimentação saudável e um vídeo relacionado ao assunto.
 
 
 
-
-
-
-
-
-
-
-
-**EXERCÍCIOS: Essa parte conterá informações sobre os benefícios do exercício físico, dicas de como realizar e um vídeo relacionado ao assunto.**
-
-
-![](./Imagens/Aspose.Words.2f0814e6-1d23-457a-aaee-9690dcd54245.003.png)
-
-
-<br>
-
-
-
-
-
-
-
-**PÁGINA DOS CÁLCULOS: Essa parte permitirá e o usuário escolha cálculo que irá fazer:**
-
-
-
-![](./Imagens/Aspose.Words.2f0814e6-1d23-457a-aaee-9690dcd54245.004.png)
-
-<br>
-
-
-
-
-
-
-**CÁLCULO DE IMC: Essa parte disponibilizará abas para o usuário preencher seus dados e realizar o cálculo de IMC.**
-
-![](./Imagens/Aspose.Words.2f0814e6-1d23-457a-aaee-9690dcd54245.005.png)
-
-
+![](./Imagens/página-alimentação.png)
 
 <br>
 
@@ -70,6 +25,13 @@
 
 
 
+**EXERCÍCIOS:**  Essa parte conterá informações sobre os benefícios do exercício físico, dicas de como realizar e um vídeo relacionado ao assunto.
+
+
+![](./Imagens/página-exercícios.png)
+
+
+<br>
 
 
 
@@ -77,16 +39,22 @@
 
 
 
+**PÁGINA DOS CÁLCULOS:**  Essa parte permitirá e o usuário escolha cálculo que irá fazer.
+
+
+
+![](./Imagens/página-testes.png)
+
+<br>
 
 
 
 
-**CÁLCULO DE TMB: Essa parte disponibilizará abas para o usuário preencher seus dados e realizar o cálculo de TMB**
-
-![](./Imagens/Aspose.Words.2f0814e6-1d23-457a-aaee-9690dcd54245.006.png)
 
 
-
+**CÁLCULO DE IMC:**
+ Essa parte disponibilizará abas para o usuário preencher seus dados e realizar o cálculo de IMC.
+![](./Imagens/página-IMC.png)
 
 
 
@@ -112,9 +80,13 @@
 
 
 
-**CÁLCULO DE FC IDEAL: Essa parte disponibilizará abas para o usuário preencher seus dados e realizar o cálculo de FC ideal**
 
-![](./Imagens/Aspose.Words.2f0814e6-1d23-457a-aaee-9690dcd54245.007.png)
+
+**CÁLCULO DE TMB:** Essa parte disponibilizará abas para o usuário preencher seus dados e realizar o cálculo de TMB.
+
+![](./Imagens/página-TMB.png)
+
+
 
 
 
@@ -141,9 +113,10 @@
 
 
 
-**PÁGINA DE LOGIN: Essa parte disponibilizará as opções do usuário já cadastrado preencha seus dados e entre em sua conta, usuários não cadastrados se cadastrarem e alterar a senha caso tenha esquecido**
+**CÁLCULO DE FC IDEAL:** Essa parte disponibilizará abas para o usuário preencher seus dados e realizar o cálculo de FC ideal.
 
-![](./Imagens/Aspose.Words.2f0814e6-1d23-457a-aaee-9690dcd54245.008.png)
+![](./Imagens/página-FC-ideal.png)
+
 
 
 
@@ -152,15 +125,64 @@
 
 
 
-**PÁGINA DE CADASTRO: Essa parte disponibilizará uma área para que o usuário preencha os seus dados para realizar o cadastro**
 
-![](./Imagens/Aspose.Words.2f0814e6-1d23-457a-aaee-9690dcd54245.009.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**PÁGINA DE LOGIN:** Essa parte disponibilizará as opções do usuário já cadastrado preencha seus dados e entre em sua conta, usuários não cadastrados se cadastrarem e alterar a senha caso tenha esquecido.
+
+![](./Imagens/página-login.png)
+
 
 
 <br>
 
-**PÁGINA DE TROCAR SENHA: Essa parte disponibilizará uma área para que o usuário indique seu e-mail para alterar sua senha**
 
 
-![](./Imagens/Aspose.Words.2f0814e6-1d23-457a-aaee-9690dcd54245.010.png)
+
+**PÁGINA DE CADASTRO:** Essa parte disponibilizará uma área para que o usuário preencha os seus dados para realizar o cadastro.
+
+![](./Imagens/página-cadastro.png)
+
+
+<br>
+
+**PÁGINA DE TROCAR SENHA:** Essa parte disponibilizará uma área para que o usuário indique seu e-mail para alterar sua senha.
+
+
+![](./Imagens/página-trocar-senha.png)
+
+<br>
+
+**PÁGINA DO USUÁRIO:** Essa parte disponibilizará a o usuário cadastrado as opções de alterar seus dados, ter informações sobre sua evolução e responder questionários para receber recomendações.
+
+![](./Imagens/página-trocar-senha.png)
+
+<br>
+
+**ALTERAÇÃO DE DADOS:** Essa parte disponibilizará a usuários cadastrados a opção de atualizar os seus dados para que o site consiga informar sobre sua evolução e alterar informações desatualizadas.
+
+![](./Imagens/página-trocar-senha.png)
+
+<br>
+
+**QUESTIONÁRIOS:** Essa parte disponibilizará ao usuário questionários para que ele responda e o sistema consiga passar recomendações para ele.
+
+![](./Imagens/página-trocar-senha.png)
+
+
+
 
