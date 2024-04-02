@@ -15,19 +15,19 @@ function cauculate(){
 
     var imc = weight / (height ** 2);
     if(imc<18.5){
-        text="Você está  magro:" + imc;
+        text="Você está  magro:" + imc.toFixed(2);
     }
     else if(imc<24.9){
-        text="Você está normal:" + imc;
+        text="Você está normal:" + imc.toFixed(2);
     }
     else if(imc<29.9){
-        text="Você está  acima do peso:" + imc;
+        text="Você está  acima do peso:" + imc.toFixed(2);
     }
     else if(imc<34.9){
-        text="Você está  obeso:" + imc;
+        text="Você está  obeso:" + imc.toFixed(2);
     }
     else if(imc>40){
-        text="Você está  com obesidade morbida:" + imc;
+        text="Você está  com obesidade morbida:" + imc.toFixed(2);
     }
 
     document.getElementById("text_area").innerText=text;
@@ -47,7 +47,7 @@ function calcular(){
         var tmb = 447.593 + (9.247 * weighttmb) + (3.098 * heighttmb) - (4.330 * agetmb);
     }
 
-    document.getElementById("text_area-tmb").innerText=("Seu metabolismo Basal é:") + tmb;
+    document.getElementById("text_area-tmb").innerText=("Seu metabolismo Basal é:") + tmb.toFixed(2);
     
     
     
@@ -66,8 +66,8 @@ function caucularok(){
         var fci = 226 - ageok * 0.75;
     }
 
-    document.getElementById("text_area_info").innerText=("FC mínima ideal:") + ideal;
+    document.getElementById("text_area_info").innerText=("FC mínima ideal:") + ideal.toFixed(2);
 
-    document.getElementById("text_area_certo").innerText=("FC máxima ideal:") + fci;
+    document.getElementById("text_area_certo").innerText=("FC máxima ideal:") + fci.toFixed(2);
 }
 
