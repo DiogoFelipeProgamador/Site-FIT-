@@ -178,7 +178,7 @@ Atualmente existem sites que contém informações sobre rotinas saudáveis mas 
 
 ### 2\.2. Objetivos do Produto
 
-A FIT+ solicitou o desenvolvimento desse site. O site conterá informações e cálculos importantes relacionados a uma rotina mais saudável desde alimentação a cálculos
+A FIT+ solicitou o desenvolvimento desse site. O site conterá informações e cálculos importantes relacionados a uma rotina mais saudável 
 
 Auxiliar o usuário a começar uma rotina mais saudável.
 
@@ -238,9 +238,9 @@ O projeto é considerado de baixo porte e baixa complexidade.
 
 Desenvolvimento do site em outras linguagens fora o portugues.
 
-Criação de login do usuário.
+Inclusão de sistema para anunciar produtos.
 
-Sistema de pesquisa.
+Sistema de pesquisa para o site.
 
 Utilização de bots com IA.
 
