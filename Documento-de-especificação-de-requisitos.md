@@ -211,7 +211,7 @@ O escopo do futuro website Fitness Plus envolve as seguintes macro-funcionalidad
 | :- | :- | :- |
 |1|Alimentação|Informar para o usuário sobre alimentação saudável com textos simples.|
 |2|Exercícios|Informar sobre os benefícios do exercício físico e instruir o usuário sobre esse assunto.|
-|3|Testes|<p>Fornecer ao usuário opções de cálculos que vão auxilia-lo a</p><p>entender melhor seu perfil. </p>|
+|3|Testes|Fornecer ao usuário opções de cálculos que vão auxilia-lo a entender melhor seu perfil. |
 
 
 
