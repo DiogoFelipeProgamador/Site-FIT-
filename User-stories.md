@@ -1,7 +1,7 @@
 # USER STORIES FITNESS\_PLUS
 
 
-**STORY 1 (Prioridade: Altíssima - Complexidade: Fácil - Tempo: 10 - 20 minutos):**
+**STORY 1 Cálculo IMC (Prioridade: Altíssima - Complexidade: Fácil - Tempo: 10 - 20 minutos):**
 
 **SENDO** um usuário do sistema
 
@@ -31,7 +31,7 @@ E é exibido na tela a mensagem "Você está obeso: 61.03"
 
 <br>
 
-**STORY 2(Prioridade: Altíssima - Complexidade: Fácil \ Médio - Tempo: 15 - 30 minutos):**
+**STORY 2 Cálculo TMB (Prioridade: Altíssima - Complexidade: Fácil \ Médio - Tempo: 15 - 30 minutos):**
 
 **SENDO** um usuário do sistema
 
@@ -61,7 +61,7 @@ E é exibido na tela a mensagem "Seu metabolismo basal é: 846.22"
 
 <br>
 
-**STORY 3(Prioridade: Altíssima - Complexidade: Fácil - Tempo: 10 - 20 minutos):**
+**STORY 3 Cálculo FC (Prioridade: Altíssima - Complexidade: Fácil - Tempo: 10 - 20 minutos):**
 
 **SENDO** um usuário do sistema
 
@@ -91,7 +91,7 @@ E é exibido na tela a mensagem "Fc mínima ideal: 166.00 bpm" "Fc máxima ideal
 
 <br>
 
-**STORY 4(Prioridade Alta - Complexidade Alta - Tempo Bastante):**
+**STORY 4 Cadastro (Prioridade Alta - Complexidade Alta - Tempo Bastante):**
 
 **SENDO** um usuário do sistema
 
@@ -141,7 +141,7 @@ E é exibido na tela a mensagem "Não é possível realizar o cadastro, nome de 
 
 <br>
 
-**STORY 5(Prioridade Média - Complexidade Alta - Tempo 20 - 40 minutos):**
+**STORY 5 Login e progresso (Prioridade Média - Complexidade Alta - Tempo 30 - 60 minutos):**
 
 **SENDO** usuário cadastrado do sistema
 
@@ -172,7 +172,7 @@ E é exibido na tela "As recomendações serão exibidas após responder os ques
 
 <br>
 
-**STORY 6(Prioridade Média - Complexidade Média - Tempo 20 - 40 minutos):**
+**STORY 6 Questionários e recomendações (Prioridade Média - Complexidade Média - Tempo 20 - 40 minutos):**
 
 **SENDO**  usuário cadastrado do sistema 
 
@@ -203,7 +203,7 @@ E é exibido na tela "As recomendações serão exibidas após responder os ques
 
 <br>
 
-**STORY 7(Prioridade Baixa - Complexidade Fácil - Tempo 15-30 minutos):**
+**STORY 7 Informações alimentação (Prioridade Baixa - Complexidade Fácil - Tempo 15-30 minutos):**
 
 **SENDO** usuário do sistema
 
@@ -213,7 +213,7 @@ E é exibido na tela "As recomendações serão exibidas após responder os ques
 
 <br>
 
-**STORY 8(Prioridade Baixa - Complexidade Fácil - Tempo 15-30 minutos):**
+**STORY 8 Informações exercícios (Prioridade Baixa - Complexidade Fácil - Tempo 15-30 minutos):**
 
 **SENDO** usuário do sistema
 
