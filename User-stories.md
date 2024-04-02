@@ -1,6 +1,8 @@
 # USER STORIES FITNESS\_PLUS
 
 
+**STORY 1 (Prioridade: Altíssima - Complexidade: Fácil - Tempo: 10 - 20 minutos):**
+
 **SENDO** um usuário do sistema
 
 **POSSO** calcular o meu IMC
@@ -15,7 +17,7 @@ Quando informo minha altura 1.7 metros e meu peso em 80 kg
 
 Então o cálculo é feito
 
-E é exibido na tela a mensagem você está  acima do peso: 27.68
+E é exibido na tela a mensagem "Você está  acima do peso: 27.68"
 
 **Cenário  2: Informações preenchidas incorretamente**
 
@@ -25,9 +27,11 @@ Quando informo minha altura em 1.7 metros e meu peso em 176.37 libras
 
 Então o cálculo é feito considerando que o peso está preenchido em kg
 
-E é exibido na tela a mensagem você está obeso: 61.03
+E é exibido na tela a mensagem "Você está obeso: 61.03"
 
 <br>
+
+**STORY 2(Prioridade: Altíssima - Complexidade: Fácil \ Médio - Tempo: 15 - 30 minutos):**
 
 **SENDO** um usuário do sistema
 
@@ -43,7 +47,7 @@ Quando informo minha altura 1.70, meu peso 80 kg, meu sexo como masculino e minh
 
 Então o cálculo é feito
 
-E é exibido na tela a mensagem seu metabolismo basal é: 714.12
+E é exibido na tela a mensagem "Seu metabolismo basal é: 714.12"
 
 **Cenário 2: Informações preenchidas incorretamente**
 
@@ -53,9 +57,11 @@ Quando informo minha altura 1.70, meu peso 80 kg, meu sexo como feminino e minha
 
 Então o cálculo é feito
 
-E é exibido na tela a mensagem seu metabolismo basal é: 846.22
+E é exibido na tela a mensagem "Seu metabolismo basal é: 846.22"
 
 <br>
+
+**STORY 3(Prioridade: Altíssima - Complexidade: Fácil - Tempo: 10 - 20 minutos):**
 
 **SENDO** um usuário do sistema
 
@@ -71,7 +77,7 @@ Quando informo que minha idade é 80 anos e meu sexo é masculino
 
 Então é feito o cálculo
 
-E é exibido na tela a mensagem fc mínima ideal: 172.00 fc máxima ideal: 160.00
+E é exibido na tela a mensagem "Fc mínima ideal: 160.00 bpm" "Fc máxima ideal: 172.00 bpm"
 
 **Cenário 2:  Informações preenchidas incorretamente**
 
@@ -81,9 +87,11 @@ Quando informo que minha idade é 80 anos e meu sexo é feminino
 
 Então é feito o cálculo
 
-E é exibido na tela a mensagem fc mínima ideal: 178.00 fc máxima ideal: 166.00
+E é exibido na tela a mensagem "Fc mínima ideal: 166.00 bpm" "Fc máxima ideal: 178.00 bpm"
 
 <br>
+
+**STORY 4(Prioridade Alta - Complexidade Alta - Tempo Bastante):**
 
 **SENDO** um usuário do sistema
 
@@ -99,7 +107,7 @@ Quando eu peço para me cadastrar
 
 Então é feito o cadastro
 
-E é exibido na tela a mensagem Cadastro concluído, será enviado um link de confirmação no seu e-mail
+E é exibido na tela a mensagem "Cadastro concluído, será enviado um link de confirmação no seu e-mail"
 
 **Cenário 2: Cadastro mal sucedido(e-mail já utilizado)**
 
@@ -109,7 +117,7 @@ Quando eu  peço para me cadastrar
 
 Então o cadastro não é feito
 
-E é exibido na tela a mensagem Não é possível completar o cadastro e-mail já utilizado
+E é exibido na tela a mensagem "Não é possível completar o cadastro, e-mail já utilizado"
 
 **Cenário 3: Cadastro mal sucedido(e-mail invalido)**
 
@@ -119,7 +127,7 @@ Quando eu peço para me cadastrar
 
 Então o cadastro não é feito
 
-E é exibido na tela a mensagem Não é possível completar o cadastro e-mail invalido
+E é exibido na tela a mensagem "Não é possível completar o cadastro, e-mail invalido"
 
 **Cenário 4: Cadastro mal sucedido(nome de usuário já existente)**
 
@@ -129,9 +137,11 @@ Quando peço para me cadastrar
 
 Então o cadastro não é feito
 
-E é exibido na tela a mensagem Não é possível realizar o cadastro nome de usuário já existente
+E é exibido na tela a mensagem "Não é possível realizar o cadastro, nome de usuário já existente"
 
 <br>
+
+**STORY 5(Prioridade Média - Complexidade Alta - Tempo 20 - 40 minutos):**
 
 **SENDO** usuário cadastrado do sistema
 
@@ -158,9 +168,11 @@ Quando entro na área do usuário
 
 Então as recomendações não são geradas
 
-E é exibido na tela As recomendações serão exibidas após responder os questionários.
+E é exibido na tela "As recomendações serão exibidas após responder os questionários."
 
 <br>
+
+**STORY 6(Prioridade Média - Complexidade Média - Tempo 20 - 40 minutos):**
 
 **SENDO**  usuário cadastrado do sistema 
 
@@ -187,9 +199,11 @@ Quando entro na área do usuário
 
 Então as recomendações não são geradas
 
-E é exibido na tela As recomendações serão exibidas após responder os questionários.
+E é exibido na tela "As recomendações serão exibidas após responder os questionários".
 
 <br>
+
+**STORY 7(Prioridade Baixa - Complexidade Fácil - Tempo 15-30 minutos):**
 
 **SENDO** usuário do sistema
 
@@ -198,6 +212,8 @@ E é exibido na tela As recomendações serão exibidas após responder os quest
 **PARA QUE** eu entenda como me alimentar corretamente.
 
 <br>
+
+**STORY 8(Prioridade Baixa - Complexidade Fácil - Tempo 15-30 minutos):**
 
 **SENDO** usuário do sistema
 
