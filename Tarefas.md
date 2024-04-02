@@ -1,7 +1,7 @@
 # TAREFAS
 
 
-|**A FAZER:**|**EM EXECUÇÃO:**|**A FAZER:**|
+|**A FAZER:**|**EM EXECUÇÃO:**|**PRONTO:**|
 | :- | :- | :- |
 ||||
 ||||
