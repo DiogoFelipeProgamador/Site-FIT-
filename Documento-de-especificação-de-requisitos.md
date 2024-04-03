@@ -270,13 +270,13 @@ Utilização de bots com IA.
 |RF 01|O sistema disponibilizará uma área para que o usuário tenha informações sobre alimentação.|
 |RF 02|O sistema disponibilizará uma área para que o usuário tenha informações sobre exercícios.|
 |RF 03|O sistema disponibilizará cálculos de IMC, TMB e FC ideal para o usuário.|
-|RF 04|O sistema disponibilizará uma área para cadastro do usuário.|
-|RF 05|O sistema disponibilizará questionários para o usuário receber melhores recomendações.|
+|RF 04|O usuário poderá se cadastrar no sistema.|
+|RF 05|O usuário poderá responder quuestionários para ter acesso a recomendações.|
 |RF 06|O sistema deverá enviar email aos usuários que se cadastrarem.|
 |RF 07|O sistema deverá enviar  anúncios para o usuário no seu e-mail.|
 |RF 08|O sistema deverá utilizar os dados do usuário para enviar informações sobre sua evolução.|
-|RF 09|O sistema deverá permitir que o usuário altere os seus dados cadastrados.|
-|RF 10|O sistema deverá permitir que o usuário troque de senha.|
+|RF 09|O usuário poderá alterar seus dados cadastrados.|
+|RF 10|O usuário poderá redefinir sua senha cadastrada.|
 
 
 ### 3\.2. Requisitos Não Funcionais
