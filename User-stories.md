@@ -220,7 +220,7 @@ Então o login e feito com sucesso
 
 E é exibido na tela a Área do usuário.
 
-**Cenário 2: Login sem sucesso(dados incorretos)**
+**Cenário 2: Login sem sucesso (dados incorretos)**
 
 Dado que o sistema precisa que eu informe meu e-mail e senha cadastrado para prosseguir com o meu login E eu informo incorretamente os meus dados
 
@@ -233,7 +233,7 @@ E é exibido na tela a mensagem "E-mail ou senha incorretos".
 
 <br>
 
-**STORY 8 Recuperação de senha(Prioridade Alta - Complexidade Fácil - Tempo 15-30 minutos):**
+**STORY 8 Recuperação de senha (Prioridade Alta - Complexidade Fácil - Tempo 15-30 minutos):**
 
 **SENDO** um usuário cadastrado do sistema
 
