@@ -271,7 +271,7 @@ Utilização de bots com IA.
 |RF 02|O sistema disponibilizará uma área para que o usuário tenha informações sobre exercícios.|
 |RF 03|O sistema disponibilizará cálculos de IMC, TMB e FC ideal para o usuário.|
 |RF 04|O usuário poderá se cadastrar no sistema.|
-|RF 05|O usuário poderá responder quuestionários para ter acesso a recomendações.|
+|RF 05|O usuário poderá responder questionários para ter acesso a recomendações.|
 |RF 06|O sistema deverá enviar email aos usuários que se cadastrarem.|
 |RF 07|O sistema deverá enviar  anúncios para o usuário no seu e-mail.|
 |RF 08|O sistema deverá utilizar os dados do usuário para enviar informações sobre sua evolução.|
