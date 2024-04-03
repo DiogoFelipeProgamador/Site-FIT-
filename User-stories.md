@@ -251,7 +251,7 @@ Então a solicitação e bem sucedida
 
 E é exibido na tela a mensagem "Foi enviado o link de redefinição para o seu E-mail"
 
-**Cenário 1: Redefinição mal sucedida**
+**Cenário 2: Redefinição mal sucedida**
 
 Dado que o sistema precisa que eu informe o meu E-mail cadastrado para que me envie o link de redefinição E eu informe incorretamente o meu E-mail
 
