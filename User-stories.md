@@ -1,7 +1,7 @@
 # USER STORIES FITNESS\_PLUS
 
 
-**STORY 1 Cálculo IMC (Prioridade: Altíssima - Complexidade: Fácil - Tempo: 10 - 20 minutos):**
+**STORY 1 Cálculo IMC (Prioridade: Altíssima - Complexidade: Fácil - Tempo: 1 dia):**
 
 **SENDO** um usuário do sistema
 
@@ -31,7 +31,7 @@ E é exibido na tela a mensagem "Você está obeso: 61.03"
 
 <br>
 
-**STORY 2 Cálculo TMB (Prioridade: Altíssima - Complexidade: Fácil \ Médio - Tempo: 15 - 30 minutos):**
+**STORY 2 Cálculo TMB (Prioridade: Altíssima - Complexidade: Fácil \ Médio - Tempo: 1 dia):**
 
 **SENDO** um usuário do sistema
 
@@ -61,7 +61,7 @@ E é exibido na tela a mensagem "Seu metabolismo basal é: 846.22"
 
 <br>
 
-**STORY 3 Cálculo FC (Prioridade: Altíssima - Complexidade: Fácil - Tempo: 10 - 20 minutos):**
+**STORY 3 Cálculo FC (Prioridade: Altíssima - Complexidade: Fácil - Tempo: 1 dia):**
 
 **SENDO** um usuário do sistema
 
@@ -91,7 +91,7 @@ E é exibido na tela a mensagem "Fc mínima ideal: 166.00 bpm" "Fc máxima ideal
 
 <br>
 
-**STORY 4 Cadastro (Prioridade Alta - Complexidade Alta - Tempo Bastante):**
+**STORY 4 Cadastro (Prioridade Alta - Complexidade Alta - Tempo: 2 semanas ):**
 
 **SENDO** um usuário do sistema
 
@@ -141,7 +141,7 @@ E é exibido na tela a mensagem "Não é possível realizar o cadastro, nome de 
 
 <br>
 
-**STORY 5 Login e progresso (Prioridade Média - Complexidade Alta - Tempo 30 - 60 minutos):**
+**STORY 5 Login e progresso (Prioridade Média - Complexidade Alta - Tempo 2 semanas):**
 
 **SENDO** usuário cadastrado do sistema
 
@@ -172,7 +172,7 @@ E é exibido na tela "As recomendações serão exibidas após responder os ques
 
 <br>
 
-**STORY 6 Questionários e recomendações (Prioridade Média - Complexidade Média - Tempo 20 - 40 minutos):**
+**STORY 6 Questionários e recomendações (Prioridade Média - Complexidade Alta - Tempo 2 semanas):**
 
 **SENDO**  usuário cadastrado do sistema 
 
@@ -203,7 +203,7 @@ E é exibido na tela "As recomendações serão exibidas após responder os ques
 
 <br>
 
-**STORY 7 Login do sistema (Prioridade Baixa - Complexidade Fácil - Tempo 15-30 minutos):**
+**STORY 7 Login do sistema (Prioridade Baixa - Complexidade Alta - Tempo 2 semanas):**
 
 **SENDO** usuário cadastrado do sistema
 
@@ -233,7 +233,7 @@ E é exibido na tela a mensagem "E-mail ou senha incorretos".
 
 <br>
 
-**STORY 8 Recuperação de senha (Prioridade Alta - Complexidade Fácil - Tempo 15-30 minutos):**
+**STORY 8 Recuperação de senha (Prioridade Alta - Complexidade Alta - Tempo 2 semanas):**
 
 **SENDO** um usuário cadastrado do sistema
 
@@ -265,7 +265,7 @@ E é exibido na tela a mensagem "E-mail não cadastrado ou informado incorretame
 
 
 
-**STORY 9 Informações alimentação (Prioridade Baixa - Complexidade Fácil - Tempo 15-30 minutos):**
+**STORY 9 Informações alimentação (Prioridade Baixa - Complexidade Fácil - Tempo 1 dia):**
 
 **SENDO** usuário do sistema
 
@@ -275,7 +275,7 @@ E é exibido na tela a mensagem "E-mail não cadastrado ou informado incorretame
 
 <br>
 
-**STORY 10 Informações exercícios (Prioridade Baixa - Complexidade Fácil - Tempo 15-30 minutos):**
+**STORY 10 Informações exercícios (Prioridade Baixa - Complexidade Fácil - Tempo 1 dia):**
 
 **SENDO** usuário do sistema
 
