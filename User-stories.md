@@ -203,7 +203,7 @@ E é exibido na tela "As recomendações serão exibidas após responder os ques
 
 <br>
 
-**STORY 7 Login do sistema (Prioridade Baixa - Complexidade Alta - Tempo 2 semanas):**
+**STORY 7 Login do sistema (Prioridade Alta - Complexidade Alta - Tempo 2 semanas):**
 
 **SENDO** usuário cadastrado do sistema
 
