@@ -31,7 +31,7 @@ E é exibido na tela a mensagem "Você está obeso: 61.03"
 
 <br>
 
-**STORY 2 Cálculo TMB (Prioridade: Altíssima - Complexidade: Fácil \ Médio - Tempo: 1 dia):**
+**STORY 2 Cálculo TMB (Prioridade: Altíssima - Complexidade: Fácil - Tempo: 1 dia):**
 
 **SENDO** um usuário do sistema
 
