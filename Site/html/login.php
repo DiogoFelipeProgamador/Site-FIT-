@@ -1,3 +1,10 @@
+<?php
+$error_message = isset($_GET['error']) ? $_GET['error'] : '';
+?>
+
+
+
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -38,24 +45,21 @@
 
     </header>
 
-    <section class="cauculo-tmb">
-        <div class="box-cauculo-tmb">
-            <h1 class="titulo-do-tmb">Caucular O TMB</h1>
-            <h1 class="height-tmb">Altura</h1>
-            <input type="text" id="height-tmb">
-            <h1>Peso</h1>
-            <input type="text" id="weight-tmb">
-            <h1>Idade</h1>
-            <input type="text" id="age-tmb">
-            <select id="options">
-                <option value="1" id="option1">Homem</option>
-                <option value="2" id="option2">Mulher</option>
-            </select>
-            <button onclick="calcular()">Calcular</button>
-            <h1 id="text_area-tmb"></h1>
-        </div>
+    <section class="login">
+        <form action="testLogin.php" method ="POST">
+            <div class="box-login">
+            <div class="login-error"><?php echo $error_message; ?></div>
+            <h1>Login</h1>
+            <label>E-mail</label>
+            <input type="text" name="email" required>
+            <label>Senha</label>
+            <input type="password" name="senha" required>
+            <input type="submit" name="submit" value="Entrar">
+            <a href="cadastrar.php">Ainda não tenho cadastro</a>
+            <a href="senha.html">Esqueci a senha</a>
+            </div>
+        </form>
     </section>
-
 
     <footer class="rodape">
         <div class="box-rodape">

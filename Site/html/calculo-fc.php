@@ -1,3 +1,53 @@
+<?php
+
+    session_start();  
+    include_once('config.php');      
+    //print_r($_SESSION);
+    if((!isset($_SESSION['email'])) == true and (!isset($_SESSION['senha']) == true)){
+        unset($_SESSION['email']);
+        unset($_SESSION['senha']);
+        header('Location: cauculo-fc.html');
+    }
+    else{
+        $logado = $_SESSION['email'];
+    }
+
+    $sql = "SELECT * FROM formulario WHERE email = '$logado' ORDER BY id DESC";
+    $result = $conexao->query($sql);
+    
+    // Verificar se a consulta retornou resultados
+    if ($result->num_rows > 0) {
+        // Como é esperado apenas um resultado para o usuário logado, não é necessário usar um loop
+        $user_data = mysqli_fetch_assoc($result);
+        
+        $nome = $user_data['nome'];
+        $altura = $user_data['altura'];
+        $peso = $user_data['peso'];
+        $datanasc = $user_data['datanasc'];
+        $data_nascimento = new DateTime($datanasc);
+        $data_atual = new DateTime(13-04-2024); // Data atual
+        $intervalo = $data_atual->diff($data_nascimento);
+        $idade = $intervalo->y;
+        $sexo = $user_data['sexo'];
+        $imc = $peso / ($altura * $altura);
+        $imc = number_format($imc, 2, '.', '');
+        $tmb = 88.362 + (13.97 * $peso) + (4.799 * ($altura * 100)) - (5.677 * $idade);
+        if($sexo == 'mulher'){
+            $tmb = 447.593 + (9.247 * $peso) + (3.098 * $altura) - (4.330 * $idade);
+        }
+        $fcminideal = (220 - $idade) * 0.60;
+        $fcmaxideal = (220 - $idade) * 0.75;
+        if($sexo == 'mulher'){
+            $fcminideal = (226 - $idade) * 0.60;
+            $fcmaxideal = (226 - $idade) * 0.75;
+        }
+    }
+
+
+?>
+
+
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -27,7 +77,8 @@
             <li><a href="alimentação.php">Alimentação</a></li>
             <li><a href="exercicios.php">Exercicios</a></li>
             <li><a href="index.php #fit+">Fit+</a></li>
-            <li><a href="login.php">Login</a></li>
+            <li><?php echo"<a href=\"sistema.php\">$nome</a>"?></li>
+            <li><a href="sair.php">Sair</a></li>
             <li class="button-test"><a href="calculos.php">Testes</a></li>
         </ul>
         <div class="menu-icon" onclick="menuShow()">

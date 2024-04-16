@@ -19,16 +19,16 @@
 <body>
     <header>
     <nav class="navbar">
-        <div class="logo animate__animated animate__bounce" onclick="(window.location='index.php')">
+        <div class="logo animate__animated animate__bounce" onclick="(window.location='index.html')">
             <h1>FIT+</h1>
         </div><!--logo-->
         <ul>
-            <li><a href="index.php">Home</a></li>
-            <li><a href="alimentação.php">Alimentação</a></li>
-            <li><a href="exercicios.php">Exercicios</a></li>
-            <li><a href="index.php #fit+">Fit+</a></li>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="alimentação.html">Alimentação</a></li>
+            <li><a href="exercicios.html">Exercicios</a></li>
+            <li><a href="#fit+">Fit+</a></li>
             <li><a href="login.php">Login</a></li>
-            <li class="button-test"><a href="calculos.php">Testes</a></li>
+            <li class="button-test"><a href="cauculos.html">Testes</a></li>
         </ul>
         <div class="menu-icon" onclick="menuShow()">
             <img src="../imagens/btn-menu.png">
@@ -38,23 +38,21 @@
 
     </header>
 
-    <section class="cauculo-tmb">
-        <div class="box-cauculo-tmb">
-            <h1 class="titulo-do-tmb">Caucular O TMB</h1>
-            <h1 class="height-tmb">Altura</h1>
-            <input type="text" id="height-tmb">
-            <h1>Peso</h1>
-            <input type="text" id="weight-tmb">
-            <h1>Idade</h1>
-            <input type="text" id="age-tmb">
-            <select id="options">
-                <option value="1" id="option1">Homem</option>
-                <option value="2" id="option2">Mulher</option>
-            </select>
-            <button onclick="calcular()">Calcular</button>
-            <h1 id="text_area-tmb"></h1>
-        </div>
+
+
+    <section class="senha">
+        <form>
+            <div class="box-senha">
+                <h1>Alterar a senha</h1>
+                <p>*Digite o e-mail da sua conta para enviarmos o link de redefinição</p>
+                <label>E-mail</label>
+                <input type="text">
+                <input type="submit" value="Enviar">
+                <a href="login.php">Voltar</a>
+            </div>
+        </form>
     </section>
+
 
 
     <footer class="rodape">
