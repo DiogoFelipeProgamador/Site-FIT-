@@ -58,7 +58,7 @@ HISTÓRICO DE REVISÕES DO DOCUMENTO
 
 # 1. INTRODUÇÃO
 
-### 1.1. PROPÓSITO DO DOCUMENTO DE REQUISITOS 
+### 1.1. PROPÓSITO DO DOCUMENTO DE REQUISITOS
 
 ### 1.2. PÚBLICO ALVO
 
@@ -178,7 +178,7 @@ Atualmente existem sites que contém informações sobre rotinas saudáveis mas 
 
 ### 2\.2. Objetivos do Produto
 
-A FIT+ solicitou o desenvolvimento desse site. O site conterá informações e cálculos importantes relacionados a uma rotina mais saudável desde alimentação a cálculos
+A FIT+ solicitou o desenvolvimento desse site. O site conterá informações e cálculos importantes relacionados a uma rotina mais saudável 
 
 Auxiliar o usuário a começar uma rotina mais saudável.
 
@@ -211,7 +211,7 @@ O escopo do futuro website Fitness Plus envolve as seguintes macro-funcionalidad
 | :- | :- | :- |
 |1|Alimentação|Informar para o usuário sobre alimentação saudável com textos simples.|
 |2|Exercícios|Informar sobre os benefícios do exercício físico e instruir o usuário sobre esse assunto.|
-|3|Testes|<p>Fornecer ao usuário opções de cálculos que vão auxilia-lo a</p><p>entender melhor seu perfil. </p>|
+|3|Testes|Fornecer ao usuário opções de cálculos que vão auxilia-lo a entender melhor seu perfil. |
 
 
 
@@ -238,9 +238,9 @@ O projeto é considerado de baixo porte e baixa complexidade.
 
 Desenvolvimento do site em outras linguagens fora o portugues.
 
-Criação de login do usuário.
+Inclusão de sistema para anunciar produtos.
 
-Sistema de pesquisa.
+Sistema de pesquisa para o site.
 
 Utilização de bots com IA.
 
@@ -270,13 +270,13 @@ Utilização de bots com IA.
 |RF 01|O sistema disponibilizará uma área para que o usuário tenha informações sobre alimentação.|
 |RF 02|O sistema disponibilizará uma área para que o usuário tenha informações sobre exercícios.|
 |RF 03|O sistema disponibilizará cálculos de IMC, TMB e FC ideal para o usuário.|
-|RF 04|O sistema disponibilizará uma área para cadastro do usuário.|
-|RF 05|O sistema disponibilizará questionários para o usuário receber melhores recomendações.|
+|RF 04|O usuário poderá se cadastrar no sistema.|
+|RF 05|O usuário poderá responder questionários para ter acesso a recomendações.|
 |RF 06|O sistema deverá enviar email aos usuários que se cadastrarem.|
 |RF 07|O sistema deverá enviar  anúncios para o usuário no seu e-mail.|
 |RF 08|O sistema deverá utilizar os dados do usuário para enviar informações sobre sua evolução.|
-|RF 09|O sistema deverá permitir que o usuário altere os seus dados cadastrados.|
-|RF 10|O sistema deverá permitir que o usuário troque de senha.|
+|RF 09|O usuário poderá alterar seus dados cadastrados.|
+|RF 10|O usuário poderá redefinir sua senha cadastrada.|
 
 
 ### 3\.2. Requisitos Não Funcionais
