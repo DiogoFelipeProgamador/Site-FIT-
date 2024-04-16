@@ -9,5 +9,5 @@ No back-end utilizaremos o php para criar a logica do sistema e fazer a conexão
 # Banco de dados
 Para criar o banco de dados utilizaremos o mysql.
 
-### Servidor
+## Servidor
 O sistema ficará hospedado em um servidor da empresa hostgator.
