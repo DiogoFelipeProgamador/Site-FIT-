@@ -1,5 +1,10 @@
 # Definição de Macro Arquitetura
 
+# CASOS DE USO
+
+
+
+
 ## Arquitetura
 A arquitetura utilizada será a MVC com o view sendo as páginas html estilizadas com css e animada com java script, o controller o php para gerenciando as solicitações do sistema e o model o banco de dados armazenando e disponibilizando as informações necessárias.
 
