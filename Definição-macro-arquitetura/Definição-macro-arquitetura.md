@@ -1,8 +1,35 @@
 # Definição de Macro Arquitetura
 
 # CASOS DE USO
-![](./imagens/casosdeusofitpluss.png)
+![](./imagens/casosdeusofitplus.png)
 
+# Modulos
+
+## Usuário cadastrado
+O usuário cadastrado terá acesso a todas as informações disponíveis no site, poderá realizar os cálculos de IMC, TMB e FC ideal, terá acesso a uma área exclusiva para usuários cadastrados onde receberá informações fitness baseadas em seus dados, poderá responder um questionário que se respondido exibirá recomendações, poderá alterar seus dados e redefinir sua senha.
+
+## Usuário não cadastrado
+O usuário que não está cadastrado no site terá acesso a todas as informações disponíveis no site, poderá realizar os cálculos de IMC, TMB e FC ideal e poderá se cadastrar para obter acesso a mais funcionalidades.
+
+# Fluxogramas
+
+## Fluxo de cadastro 
+![](./imagens/fluxo-de-cadastro.png)
+
+## Fluxo de Login 
+![](./imagens/fluxo-de-login.png)
+
+## Fluxo de Cálculos 
+![](./imagens/fluxo-de-calculos.png)
+
+## Fluxo de Alteração de dados 
+![](./imagens/fluxo-de-alteração-de-dados.png)
+
+## Fluxo de alteração de senha 
+![](./imagens/fluxo-de-alteração-de-senha.png)
+
+## Fluxo de redefinição de senha 
+![](./imagens/fluxo-de-redefinição-de-senha.png)
 
 
 ## Arquitetura
