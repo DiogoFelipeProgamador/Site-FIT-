@@ -9,7 +9,7 @@ O usuário terá a possibilidade de se cadastrar no sistema para receber dados e
 #### 2.LOGAR 
 O usuário poderá logar no sistema para acessar o seu perfil, o login somente será concluido após o sistema verificar se os dados digitados estão corretos de acordo com o banco dados.
 
-#### 3.NAVEGAR PELAS INFORMAÇÕES DISPONÍVEIS
+##### 3.NAVEGAR PELAS INFORMAÇÕES DISPONÍVEIS
 O usuário poderá navegar por todas as informações disponíveis no sitema.
 
 #### 4.CALCULAR O SEU IMC, TMB E FC IDEAL
