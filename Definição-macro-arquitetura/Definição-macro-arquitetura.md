@@ -3,6 +3,38 @@
 # CASOS DE USO
 ![](./imagens/casosdeusofitplus.png)
 
+#### 1.SE CADASTRAR NO SISTEMA
+O usuário terá a possibilidade de se cadastrar no sistema para receber dados e funcionalidades exclusivas para usuários cadastrados, a ação de se cadastrar so será concluida após o sistena verificar se os dados digitados pelo usuário ja existem no banco de dados.
+
+#### 2.LOGAR 
+O usuário poderá logar no sistema para acessar o seu perfil, o login somente será concluido após o sistema verificar se os dados digitados estão corretos de acordo com o banco dados.
+
+#### 3.NAVEGAR PELAS INFORMAÇÕES DISPONÍVEIS
+O usuário poderá navegar por todas as informações disponíveis no sitema.
+
+#### 4.CALCULAR O SEU IMC, TMB E FC IDEAL
+O usuário poderá realizar os calculos de IMC, TMB e FC ideal preenchendo os dados necessários para o cálculo.
+
+#### 5.ENTRAR EM SEU PERFIL
+O usuário que estiver logado no sistema poderá entrar em seu perfil para acessar ou alterar suas informações cadastradas e ter acesso as demais funcionalidades.
+
+#### 6.RESPONDER QUESTIONÁRIO
+O usuário que estiver logado e entrado em seu perfil poderá responder o questionário para receber recomendações do sistema.
+
+#### 7.EXIBIR RECOMENDAÇÕES
+O sistema exibirá recomendações no perfil dos usuários que tenham respondido o questionário.
+
+#### 8.ALTERAR SEUS DADOS
+O usuário que esta logado e entrou em seu perfil poderá alterar seus dados cadastrados. 
+
+
+
+
+
+
+
+
+
 # Modulos
 
 ## Usuário cadastrado
