@@ -27,7 +27,33 @@ O sistema exibirá recomendações no perfil dos usuários que tenham respondido
 #### 8.ALTERAR SEUS DADOS
 O usuário que esta logado e entrou em seu perfil poderá alterar seus dados cadastrados. 
 
+### 1.2 VERIFICAR DADOS DE CADASTRO
 
+Após o usuário inserir suas informações de cadastro, o sistema deve conferir:
+Se as informações foram todas preenchidas;
+Se as informações inseridas estão corretas;
+Se já existe algum cadastro com o email inserido no banco de dados.
+
+### 1.3 ARMAZENAR DADOS DO CADASTRO
+
+Após o sistema conferir e verificar os dados de cadastro, o sistema irá armazenar as informações do usuário, criar um ID único e criptografar a senha.
+
+### 
+Após o usuário alterar seus dados, o sistema irá substituir ou adicionar as informações inseridas.
+
+### 2.2 VERIFICAR DADOS DE LOGIN
+
+Após o usuário inserir seus dados e logar, o sistema irá verificar se os dados inseridos estão de acordo com os dados no banco de dados.
+Caso não estejam corretos o usuário pode inserir novamente os dados;
+Caso estejam corretos iniciará a sessão do usuário.
+
+### INICIAR SESSÃO DO USUÁRIO
+
+Após o sistema verificar se as informações inseridas estão corretas, irá iniciar a sessão do usuário.
+
+### EXIBITR RESULTADO DOS CÁLCULOS
+
+Após o usuário inserir as informações necessárias para fazer o cálculo, o sistema irá ler as informações, fazer o cálculo e escrever na tela as informações obtidas.
 
 
 
