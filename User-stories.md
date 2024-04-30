@@ -145,30 +145,9 @@ E é exibido na tela a mensagem "Não é possível realizar o cadastro, nome de 
 
 **SENDO** usuário cadastrado do sistema
 
-**POSSO** ter informações sobre minhas evoluções
+**POSSO** ter acesso a informações baseadas em meus dados
 
 **PARA QUE** eu perceba o meu progresso
-
-**Cenário 1: Atualizei os dados**
-
-Dado que o sistema precisa da atualização dos dados para poder informar sobre as evoluções E eu atualizei os meus dados
-
-Quando entro na área do usuário
-
-Então a evolução é registrada
-
-E é exibido na tela os meus resultados
-
-
-**Cenário  2: Não atualização dos dados**
-
-Dado que o sistema precisa que o usuário responda os questionários para passar recomendações E eu não respondi os questionários
-
-Quando entro na área do usuário
-
-Então as recomendações não são geradas
-
-E é exibido na tela "As recomendações serão exibidas após responder os questionários."
 
 <br>
 
