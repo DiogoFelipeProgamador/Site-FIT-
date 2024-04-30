@@ -42,7 +42,50 @@ Para fazer o front-end utilizaremos o html para construir o sistema e adicionar 
 No back-end utilizaremos o php para criar a logica do sistema e fazer a conexão com o banco de dados, enviando os dados do cadastro, verificando os dados cadastrados para o login e alterando os dados cadastrados.
 
 ## Banco de dados
-Para criar o banco de dados utilizaremos o mysql da seguinte forma: criando uma tabela com as seguintes colunas id,nome,email,senha,altura,sexo e datanasc,questao1,questao2,questao3,questao4,questionariorespondido sendo id declarado como INT e AI, nome VAR CHAR com o valor 45, email VAR CHAR com o valor 110, senha VAR CHAR com o valor 45, altura VAR CHAR com o valor 15, peso VAR CHAR com o valor 15, datanasc DATE, sexo VAR CHAR com o valor 15, questao1 VAR CHAR com o valor 15, questao2 VAR CHAR com o valor 15, questao 3 VAR CHAR com o valor 15, questao3 VAR CHAR com o valor 15, questao4 VAR CHAR com o valor 15 e questionariorespondido INT como valor 1.
+Para criar o banco de dados utilizaremos o mysql da seguinte forma: criaremos 4 tabelas para armazenar os dados dos usuários(cadastro,loginsite,usuarios,questionários).
+#### Tabela Cadastro
+Na tabela cadastro estarão armazenados o id e os dados cadastrados do usuário(Nome,E-mail,Altura,Peso,Data de nascimento, Sexo).
+
+#### Estrutura da tabela:
+![](./imagens/BCE-cadastro.png)
+
+#### Como serão armazenados os dados:
+![](./imagens/BC-Cadastro.png)
+
+#### Tabela Loginsite
+Na tabela Loginsite estarão armazenados o id, E-mail e a senha cadastrada criptograda ele será utilizado para conferir se os dados de login estão corretos.
+
+#### Estrutura da tabela:
+![](./imagens/BCE-loginsite.png)
+
+#### Como serão armazenados os dados:
+![](./imagens/BC-loginsite.png)
+
+
+#### Tabela Usuários
+Na tabela usuários estarão armazenados o id, os dados do usuário(Nome, E-mail, Altura, Peso, Data de nascimento, Sexo) e o codigo de recuperação que será enviado para o E-mail do usuário caso queira redefinir a senha.
+
+#### Estrutura da tabela:
+![](./imagens/BCE-usuários.png)
+
+#### Como serão armazenados os dados:
+![](./imagens/BC-usuários.png)
+
+#### Tabela Questionários
+Na tabela questionários estarão armazenados o id, nome, E-mail e as respostas do usuário caso tenha respondido o questionário, a tabela sera utilizada para verificar se o usuário ja respondeu o questionário e quais foram suas respostas para gerar recomendações.
+
+#### Estrutura da tabela:
+![](./imagens/BCE-questionarios.png)
+
+#### Como os dados serão armazenados:
+![](./imagens/BC-questionários.png)
+
+
+
+
+
+
+
 
 ## Servidor
 O sistema ficará hospedado em um servidor da empresa hostgator.
