@@ -25,6 +25,9 @@ O usuário que não está cadastrado no site terá acesso a todas as informaçõ
 ## Fluxo de Alteração de dados 
 ![](./imagens/fluxo-de-alteração-de-dados.png)
 
+## Fluxo de recomendações
+![](./imagens/fluxo-de-recomendações.png)
+
 ## Fluxo de alteração de senha 
 ![](./imagens/fluxo-de-alteração-de-senha.png)
 
