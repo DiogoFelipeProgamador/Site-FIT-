@@ -146,4 +146,7 @@ Na tabela questionários estarão armazenados o id, nome, E-mail e as respostas 
 
 
 ## Servidor
-O sistema ficará hospedado em um servidor da empresa hostgator.
+O sistema ficará hospedado em um servidor da empresa hostgator, o dominio terá o certificado SSL para maior segurança dos usuário que o utilizarem,
+
+### Servidor Banco de Dados
+O Banco de Dados ficará hospedado no phpmyadmin disponibilizado pela hostgator.
