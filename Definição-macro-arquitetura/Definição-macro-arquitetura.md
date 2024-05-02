@@ -91,7 +91,7 @@ O usuário que não está cadastrado no site terá acesso a todas as informaçõ
 
 
 ## Arquitetura
-A arquitetura utilizada será a MVC com o view sendo as páginas html estilizadas com css e animada com java script, o controller o php para gerenciando as solicitações do sistema e o model o banco de dados armazenando e disponibilizando as informações necessárias.
+A arquitetura utilizada será utilizada será em camadas uma camada para as páginas html estilizadas com css e animadas com java script, uma camada com o php gerenciando as solicitações do sistema e uma camada para o banco de dados armazenando e disponibilizando as informações necessárias.
 
 ## Front-End
 Para fazer o front-end utilizaremos o html para construir o sistema e adicionar conteúdos, cada parte do sistema terá sua página html, para estilizar o sitema utilizaremos o css, a estilizção deixara o sistema responsivo sendo compativel com as telas de todos os dispositiovs e para criar as animações e realizar os cálculos(IMC,TMB,FC ideal) na função testes utilizaremos java script.   
@@ -150,3 +150,40 @@ O sistema ficará hospedado em um servidor da empresa hostgator, o dominio terá
 
 ### Servidor Banco de Dados
 O Banco de Dados ficará hospedado no phpmyadmin disponibilizado pela hostgator.
+
+## Organização das pastas
+![](./imagens/organização-das-pastas.png)
+
+### PASTA SISTEMA
+A pasta sistema armazenará todos os arquivos do sistema.
+
+### PASTA INFORMAÇÕES
+A pasta informações armazenará os arquivos html e php das áreas informativas do sistema.
+
+### PASTA CÁLCULOS
+A pasta cálculos armazenará os arquivos html e php das áreas de cálculos do sistema.
+
+### PASTA CADASTRO
+A pasta cadastro armazenará os arquivos html e php das áreas de cadastro do sistema.
+
+### PASTA LOGIN
+A pasta login armazenará os arquivos html e php das áreas de login e redefinição de senha do usuário.
+
+### PASTA ÁREA-DO-USUÁRIO
+A pasta área-do-usuário armazenará os arquivos html e php das áreas disponível para o usuário logado e todas suas funções.
+
+### PASTA PÁGINA-INICIAL
+A pasta página-inicial armazenará os arquivos html e php da página inicial do sistema.
+
+### PASTA CSS
+A pasta css armazenará o arquivo css que estilizara todo o sistema.
+
+### PASTA IMAGENS
+A pasta imagens armazenará todas as imagens utilizadas no sistema.
+
+### PASTA JS
+A pasta js armazenará o arquivo javascript utilizado em todo sistema.
+
+### CONFIG
+A pasta config armazenará o arquivo php que faz ligação do sistema com o banco de dados.
+
