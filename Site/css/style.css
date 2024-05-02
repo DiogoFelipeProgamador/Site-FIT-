@@ -1,0 +1,1211 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:"Inter", sans-serif;
+}
+
+html,body{
+    height: 100%;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.4rem 5rem;
+    background:rgb(17, 35, 48);
+}
+
+.container{
+    max-width: 1600px;
+    width: 100%;
+}
+
+.logo{
+    color: white;
+    cursor: pointer;
+}
+
+
+.navbar ul{
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+}
+
+.navbar ul li{
+    margin: 0 15px;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: white;
+    font-size: 17px;
+}
+
+.button-test{
+    background-color:rgb(209, 129, 55);
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.button-test:hover{
+background-color: rgb(224, 115, 13);
+}
+
+.menu-icon{
+    display: none;
+    cursor: pointer;
+}
+
+.menu-icon img{
+    width: 40px;
+}
+
+.banner{
+    background-image:url(../imagens/banner.png);
+    width: 100%;
+    height:100%;
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+
+.site-text-aspas{
+    background-color: rgb(18, 31, 38);
+}
+
+.titulo{
+    text-align: center;
+    padding: 30px 0;
+    font-size: 20px;
+    color: white;
+    font-style: italic;
+    
+}
+
+.text{
+    color: white;
+    text-align: center;
+    font-size: 17px;
+}
+
+.imc{
+    padding: 10px 0;
+}
+
+.imc img{
+    width: 40%;
+    padding: 10px 0;
+}
+
+.ideal{
+    padding: 10px 0;
+}
+
+.exercicios{
+    padding: 10px 0;
+}
+
+.aspas{
+    padding: 30px 0;
+    text-align: center;
+    display:flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+.aspas img{
+    width: 100px;
+}
+
+.text-aspas{
+    color: white;
+    padding: 20px 0;
+}
+
+.menus-interativos{
+    padding: 10px 0;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    background-color:rgb(18, 31, 38);
+}
+
+.button-box{
+    width: 20%;
+    height: 100px;
+    border-radius: 30px;
+    margin: 0 10px;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px black;
+}
+
+.button-box:nth-of-type(1){
+    background-image:url(../imagens/alimentacao-background-img.gif);
+    background-size: 100% 100%;
+}
+
+.button-box:nth-of-type(2){
+    background-image:url(../imagens/treino-background-img.gif);
+    background-size: 100% 100%;
+}
+
+.button-box:nth-of-type(3){
+    background-image:url(../imagens/testes-background-img.gif);
+    background-size: 100% 100%;
+}
+
+
+.button-box h1{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.box-rodape{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(17, 35, 48);
+    
+}
+
+.text-rodape{
+    text-align:center ;
+}
+
+.text-rodape p{
+    color: white;
+    padding-top: 70px;
+
+}
+
+.cauculos{
+    width: 100%;
+    height: auto;
+}
+
+.imc-cauculo{
+    width: 100%;
+    padding: 10px 17px;
+    text-align: left;
+}
+
+.imc-cauculo h1{
+    padding: 10px 0;
+}
+
+.imc-button{
+    display: flex;
+    padding: 10px 30px;
+}
+
+.imc-button img{
+    width: 300px;
+}
+
+.cauculo-button-imc{
+    width: 300px;
+    height: 100px;
+    background-color:rgb(216, 146, 41);
+    margin-top: 100px;
+    margin-left: 60px;
+    border-radius: 30px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.cauculo-button-imc a{
+    position: relative;
+    top: 40%;
+    font-size: 20px;
+    color: white;
+}
+
+.tmb-cauculo{
+    width: 100%;
+}
+
+.tmb-cauculo h1{
+    padding: 10px 17px;
+}
+
+.tmb-cauculo p{
+    padding: 0 17px;
+    text-align: left;
+}
+
+.cauculo-imc{
+    width: 100%;
+    height: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    background-color:#c48105
+}
+
+.box-dados-imc{
+    width: 400px;
+    height: 400px;
+    background-color:#c27b10;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+
+.box-dados-imc button{
+    display: block;
+    margin-top: 20px;
+    padding: 10px 70px;
+    border: none;
+    cursor: pointer;
+    flex-direction: column;
+    background-color:rgb(17, 35, 48);
+    color: white;
+}
+
+.dados-imc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.dados-imc h1{
+    padding: 10px 0;
+}
+
+
+#text_area{
+    margin-top: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    width: 100%;
+    font-size: 17px;
+    
+}
+
+.cauculo-tmb{
+    width: 100%;
+    height: 1000px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    
+}
+
+.box-cauculo-tmb{
+    width: 400px;
+    height: 400px;
+    background-color:#c27b10;
+   text-align: center;
+}
+
+.box-cauculo-tmb .height-tmb{
+    margin-top: 40px;
+}
+
+.box-cauculo-tmb select{
+    display: block;
+    width: 100px;
+    margin-top: 10px;
+    margin-left: 150px;
+    
+    
+}
+
+.box-cauculo-tmb button{
+    padding: 10px 70px;
+    margin-top: 10px;
+    border: none;
+    cursor: pointer;
+    background-color: rgb(17, 35, 48);
+    color: white;
+}
+
+.cauculo-tmb{
+    background-color:#c48105;
+    
+}
+
+#text_area-tmb{
+    margin-top: 10px;
+    font-size: 28px;
+    text-align: center;
+    
+}
+
+.cauculo-fc-ideal{
+    width: 100%;
+    height: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#c48105;
+}
+
+.box-cauculo-fc{
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#c27b10;
+    flex-direction: column;
+}
+
+.box-cauculo-fc #options-cauculo{
+    margin-top: 10px;
+}
+
+.box-cauculo-fc button{
+    margin-top: 10px;
+    padding: 17px 70px;
+    border: none;
+    cursor: pointer;
+    background-color: rgb(17, 35, 48);
+    color: white;
+}
+
+#text_area_info{
+    margin-top: 10px;
+}
+
+#text_area_certo{
+    margin-top: 10px;
+}
+
+.tmb-button{
+    display: flex;
+    padding: 10px 30px;
+}
+
+.tmb-button img{
+    width: 300px;
+}
+
+.cauculo-tmb-button{
+    width: 300px;
+    height: 100px;
+    background-color:rgb(216, 146, 41);
+    margin-top: 100px;
+    margin-left: 60px;
+    border-radius: 30px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.cauculo-tmb-button a{
+    position: relative;
+    top: 40%;
+    font-size: 20px;
+    color: white;
+}
+
+.fc-ideal-cauculo{
+    width: 100%;
+}
+
+.fc-ideal-cauculo h1{
+    padding: 10px 17px;
+}
+
+.fc-ideal-cauculo p{
+    padding: 0 17px;
+    text-align: left;
+}
+
+.fc-ideal-button{
+    display: flex;
+    padding: 10px 30px;
+}
+
+.fc-ideal-button img{
+    width: 300px;
+}
+
+.fc-ideal-cauculobutton{
+    width: 300px;
+    height: 100px;
+    background-color:rgb(216, 146, 41);
+    margin-top: 100px;
+    margin-left: 60px;
+    border-radius: 30px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.fc-ideal-cauculobutton a{position: relative;
+    top: 40%;
+    font-size: 20px;
+    color: white;
+}
+
+.dados-imc h1:nth-of-type(1){
+    display: flex;
+    justify-content:center;
+    align-items: column;
+    color: white;
+}
+
+.titulo-do-tmb{
+    color: white;
+    margin-top: 30px;
+}
+
+#titulo-fc-ideal{
+    color: white;
+    padding: 30px 0;
+}
+
+.alimentacao{
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+.box-text{
+    width: 300px;
+    text-align: center;
+    margin: 0 auto;
+    background-color: rgb(28, 75, 100);
+    color: white;
+    border-radius: 10px;
+    height: 40px;
+}
+
+.box-text h1{
+    text-align: center;
+    padding: 3px 0;
+}
+
+.alimentacao-explicacao{
+    padding: 10px 0;
+    width: 100%;
+}
+
+.box-img-explicacao{
+    width: 33.3%;
+    height: 300px;
+    border: 1px solid white;
+    
+}
+
+.img-explicacao{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+}
+
+.box-img-explicacao:nth-of-type(1){
+    background-image: url(../imagens/img-alimentacao-box1.jpg);
+    background-size: cover;
+    
+}
+
+.box-img-explicacao:nth-of-type(2){
+    background-image: url(../imagens/img-alimentacao-box2.jpg);
+    background-size: cover;
+}
+
+.box-img-explicacao:nth-of-type(3){
+    background-image: url(../imagens/img-alimentacao-box3.jpg);
+    background-size: cover;
+}
+
+.texto-sobre-alimentacao .exp{
+    padding: 10px 0;
+}
+
+.texto-sobre-alimentacao p{
+    padding: 10px 0;
+}
+
+.exercicios-texto-explicacao{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.img-explicacao-exercicios{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+}
+
+.box-img-exercicios{
+    width: 33.3%;
+    height: 300px;
+    border: 1px solid white;
+}
+
+.box-img-exercicios:nth-of-type(1){
+    background-image: url(../imagens/exercicios-img-box1.jpg);
+    background-size: cover;
+}
+
+.box-img-exercicios:nth-of-type(2){
+    background-image:url(../imagens/exercicios-img-box2.jpg);
+    background-size: cover;
+}
+
+.box-img-exercicios:nth-of-type(3){
+    background-image: url(../imagens/exercicios-img-box3.jpg);
+    background-size: cover;
+}
+
+.explicacao-exercicios-text p{
+    padding: 10px 0;
+
+}
+
+.login{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: auto;
+}
+
+.box-login{
+    margin-top: 50%;
+    width: 400px;
+    height: 400px;
+    background-color: rgb(28, 75, 100);
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 50%;
+}
+
+.box-login input{
+    padding: 4px 0;
+    width: 300px;
+}
+
+.box-login label{
+    color: white;
+    margin-top: 30px;
+}
+
+.box-login h1{
+    color: white;
+}
+
+.box-login input[type="submit"]{
+    margin-top: 40px;
+    background-color:#c48105;
+    text-decoration: none;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    color: white;
+}
+
+.box-login a{
+    margin-top:30px;
+    text-decoration: none;
+    color: white;
+}
+
+
+.cadastrar{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: auto;
+}
+
+.box-cadastrar{
+    width: 400px;
+    height: 600px;
+    margin-top: 50%;
+    background-color: rgb(28, 75, 100);
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 50%;
+}
+
+.box-cadastrar h1{
+    color: white;
+}
+
+.box-cadastrar label{
+    margin-top: 10px;
+    color: white;
+}
+
+.box-cadastrar input[type="submit"]{
+    width: 280px;
+    margin-top: 15px;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    background-color:#c48105;
+    color: white;
+}
+
+.box-cadastrar input[type="text"]{
+    width: 300px;
+    padding: 4px 0;
+}
+
+.box-cadastrar input[type="number"]{
+    width: 300px;
+    padding: 4px 0;
+}
+
+.box-cadastrar select{
+    margin-top: 10px;
+}
+
+.box-cadastrar a{
+    margin-top: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+.senha{
+    height: auto;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.box-senha{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(28, 75, 100);
+    margin-top: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom:50%;
+}
+
+.box-senha h1{
+    color: white;
+}
+
+.box-senha p{
+    padding: 10px 0;
+    color: white;
+}
+
+.box-senha label{
+    color: white;
+}
+
+.box-senha input[type="text"]{
+    width: 300px;
+    padding: 4px 0;
+}
+
+.box-senha input[type="submit"]{
+    margin-top: 30px;
+    width: 300px;
+    border: none;
+    cursor: pointer;
+    background-color:#c48105;
+    color: white;
+    padding: 10px 0;
+}
+
+.box-senha a{
+    margin-top: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+
+.system{
+    text-align: center;
+    height: auto;
+}
+
+.dados-usuario{
+    padding: 0 15%;
+}
+
+
+.system  img{
+    width: 200px;
+    height: 200px;
+    margin-top: 30px;
+}
+
+.system .dados-usuario {
+  display: flex;
+  align-items:center;
+  justify-content:space-between;
+  margin-top: 10px;
+}
+
+.system .dados-usuario h1 {
+    margin-top: 30px;
+    padding: 0 10px;
+  }
+
+  .system input[type="button"]{
+    display: inline-block;
+    width: 200px;
+    border: none;
+    background-color:#c48105;
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+  }
+
+  .calculos-usuario{
+    margin-top: 100px;
+    display:flex;
+    justify-content:space-between;
+    width: 100%;
+    height: auto;
+  }
+
+
+.box-calculos{
+    width: 33.3%;
+    height: 400px;
+    background-color:rgb(76, 103, 117);
+}
+
+.titulo-box{
+    width: 100%;
+    height: 80px;
+    background-color: rgb(18, 31, 38);
+}
+
+.titulo-box h1{
+    text-align: center;
+    color: white;
+    padding: 30px 0;
+}
+
+.box-calculos p{
+    padding: 10px ;
+    color: white;
+}
+
+.box-calculos label{
+    color: white;
+    
+}
+
+.box-calculos h1{
+    color: white;
+}
+
+.questions{
+    padding: 10px;
+}
+
+.box-calculos input[type="submit"]{
+    margin-left: 10px;
+    border: none;
+    padding: 10px;
+    background-color:#c48105;
+    color: white;
+    cursor: pointer;
+}
+
+.box-calculos input[type="submit"]:hover{
+    margin-left: 10px;
+    border: none;
+    padding: 10px;
+    background-color:#b67908;
+    color: white;
+    cursor: pointer;
+}
+
+.recomendacoes-text{
+    padding: 10px 0;
+}
+
+.box-quest-verificado img{
+width: 100px;
+height: 100px;
+margin-left: 40px;
+margin-top: 20px;
+
+}
+
+.box-quest-verificado h1{
+    margin-right: 30%;
+    margin-top: 40px;
+}
+
+.box-quest-verificado{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.box-cadastrar input[type="update"]{
+    width: 280px;
+    margin-top: 15px;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    background-color:#c48105;
+    color: white;
+}
+
+.mensagem-erro{
+    color: white;
+    background-color: rgb(161, 16, 43);
+    border-radius: 2px;
+    width: 100px;
+}
+
+.login-error{
+    color: white;
+    background-color: rgb(161, 16, 43);
+}
+
+.senha-error{
+    width: 200px;
+}
+
+.senha-error p{
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+}
+
+.codigo-verificacao{
+    height: auto;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.preencher-codigo{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(28, 75, 100);
+    margin-top: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom:50%;
+}
+
+.preencher-codigo h1{
+    color: white;
+}
+
+.preencher-codigo input[type="text"]{
+    width: 300px;
+    padding: 4px 0;
+    margin-top: 30px;
+}
+
+.preencher-codigo input[type="submit"]{
+    margin-top: 30px;
+    width: 300px;
+    border: none;
+    cursor: pointer;
+    background-color:#c48105;
+    color: white;
+    padding: 10px 0;
+}
+
+
+.alterar-senha{
+    height: auto;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.preencher-nova-senha{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(28, 75, 100);
+    margin-top: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom:50%;
+}
+
+.preencher-nova-senha h1{
+    color: white;
+}
+
+.preencher-nova-senha input[type="text"]{
+    width: 300px;
+    padding: 4px 0;
+    margin-top: 30px;
+}
+
+.preencher-nova-senha input[type="submit"]{
+    margin-top: 30px;
+    width: 300px;
+    border: none;
+    cursor: pointer;
+    background-color:#c48105;
+    color: white;
+    padding: 10px 0;
+}
+
+
+.codigo-error{
+    width: 200px;
+}
+
+.codigo-error p{
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+}
+
+.alterar-senha-logado{
+    height: auto;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.box-senha-logado{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(28, 75, 100);
+    margin-top: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom:50%;
+}
+
+.box-senha-logado h1{
+    color: white;
+}
+
+.box-senha-logado label{
+    margin-top: 30px;
+    color: white;
+}
+
+.box-senha-logado input[type="password"]{
+    width: 300px;
+    padding: 4px 0;
+}
+
+.box-senha-logado input[type="submit"]{
+    margin-top: 30px;
+    width: 300px;
+    border: none;
+    cursor: pointer;
+    background-color:#c48105;
+    color: white;
+    padding: 10px 0;
+}
+
+.box-senha-logado a{
+    text-decoration: none;
+    margin-top: 10px;
+    color: white;
+}
+
+.senha-alterar-error{
+    width: 200px;
+}
+
+.senha-alterar-error p{
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:1280px){
+
+
+    .system img{
+        display: inline-block;
+    }
+
+    
+    .system .dados-usuario {
+        display: block;
+        align-items:center;
+        justify-content:space-between;
+        margin-top: 10px;
+      }
+
+      .system input[type="button"]{
+        margin-top: 10px;
+      }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:768px){
+    .navbar ul{
+    position: absolute;
+    background-color:rgb(17, 35, 48);
+    top: 78px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 100%;
+    left: -100%;
+    transition: 0.3s;
+    }
+
+    .navbar ul.open{
+        left: 0;
+    }
+
+    .navbar ul li{
+        padding: 5px 0;
+    }
+
+    .menu-icon{
+        display:block;
+    }
+
+    .navbar ul li.blue{
+        padding: 10px 20px;
+    }
+
+    .banner{
+        background-image: url(../imagens/banner-mobile.png);
+    }
+
+    .menus-interativos{
+        display: block;
+        padding: 30px 10px;
+    }
+
+    .button-box{
+        width: 100%;
+        position: relative;
+    }
+
+    .button-box h1{
+        padding: 30px 0;
+    }
+
+    .imc-button{
+        display: block;
+        text-align: center;
+    }
+
+    .cauculo-button-imc{
+        margin: 10px auto;
+        padding:0px 0;
+    }
+
+    .cauculos{
+        height: auto;
+    }
+
+    .tmb-cauculo{
+        padding: 10px 0;
+    }
+
+    .tmb-button{
+        display: block;
+        text-align: center;
+    }
+
+    .cauculo-tmb-button{
+        margin: 10px auto;
+        padding:0px 0;
+    }
+
+    .fc-ideal-cauculo{
+        padding: 10px 0;
+    }
+
+    .fc-ideal-button{
+        display: block;
+        text-align: center;
+    }
+
+    .fc-ideal-cauculobutton{
+        margin: 10px auto;
+        padding:0px 0;  
+    }
+
+    .video-explicacao-alimentacao iframe{
+        width: 400px;
+    }
+
+    
+    .video-exercicios-explicacao iframe{
+        width: 400px;
+    }
+
+    .calculos-usuario{
+        display: inline-block;
+    }
+
+    .box-calculos{
+        width: 100%;
+        
+    }
+
+
+
+}
+
