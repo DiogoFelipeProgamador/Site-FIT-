@@ -91,7 +91,7 @@ O usuário que não está cadastrado no site terá acesso a todas as informaçõ
 
 
 ## Arquitetura
-A arquitetura utilizada será a MVC com o view sendo as páginas html estilizadas com css e animada com java script, o controller o php para gerenciando as solicitações do sistema e o model o banco de dados armazenando e disponibilizando as informações necessárias.
+A arquitetura utilizada será utilizada será em camadas uma camada para as páginas html estilizadas com css e animadas com java script, uma camada com o php gerenciando as solicitações do sistema e uma camada para o banco de dados armazenando e disponibilizando as informações necessárias.
 
 ## Front-End
 Para fazer o front-end utilizaremos o html para construir o sistema e adicionar conteúdos, cada parte do sistema terá sua página html, para estilizar o sitema utilizaremos o css, a estilizção deixara o sistema responsivo sendo compativel com as telas de todos os dispositiovs e para criar as animações e realizar os cálculos(IMC,TMB,FC ideal) na função testes utilizaremos java script.   
