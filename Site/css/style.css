@@ -657,6 +657,11 @@ background-color: rgb(224, 115, 13);
     padding: 4px 0;
 }
 
+.box-cadastrar input[type="number"]{
+    width: 300px;
+    padding: 4px 0;
+}
+
 .box-cadastrar select{
     margin-top: 10px;
 }
@@ -866,6 +871,168 @@ margin-top: 20px;
     color: white;
     background-color: rgb(161, 16, 43);
 }
+
+.senha-error{
+    width: 200px;
+}
+
+.senha-error p{
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+}
+
+.codigo-verificacao{
+    height: auto;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.preencher-codigo{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(28, 75, 100);
+    margin-top: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom:50%;
+}
+
+.preencher-codigo h1{
+    color: white;
+}
+
+.preencher-codigo input[type="text"]{
+    width: 300px;
+    padding: 4px 0;
+    margin-top: 30px;
+}
+
+.preencher-codigo input[type="submit"]{
+    margin-top: 30px;
+    width: 300px;
+    border: none;
+    cursor: pointer;
+    background-color:#c48105;
+    color: white;
+    padding: 10px 0;
+}
+
+
+.alterar-senha{
+    height: auto;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.preencher-nova-senha{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(28, 75, 100);
+    margin-top: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom:50%;
+}
+
+.preencher-nova-senha h1{
+    color: white;
+}
+
+.preencher-nova-senha input[type="text"]{
+    width: 300px;
+    padding: 4px 0;
+    margin-top: 30px;
+}
+
+.preencher-nova-senha input[type="submit"]{
+    margin-top: 30px;
+    width: 300px;
+    border: none;
+    cursor: pointer;
+    background-color:#c48105;
+    color: white;
+    padding: 10px 0;
+}
+
+
+.codigo-error{
+    width: 200px;
+}
+
+.codigo-error p{
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+}
+
+.alterar-senha-logado{
+    height: auto;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.box-senha-logado{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(28, 75, 100);
+    margin-top: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom:50%;
+}
+
+.box-senha-logado h1{
+    color: white;
+}
+
+.box-senha-logado label{
+    margin-top: 30px;
+    color: white;
+}
+
+.box-senha-logado input[type="password"]{
+    width: 300px;
+    padding: 4px 0;
+}
+
+.box-senha-logado input[type="submit"]{
+    margin-top: 30px;
+    width: 300px;
+    border: none;
+    cursor: pointer;
+    background-color:#c48105;
+    color: white;
+    padding: 10px 0;
+}
+
+.box-senha-logado a{
+    text-decoration: none;
+    margin-top: 10px;
+    color: white;
+}
+
+.senha-alterar-error{
+    width: 200px;
+}
+
+.senha-alterar-error p{
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+}
+
+
+
 
 
 
