@@ -150,3 +150,40 @@ O sistema ficará hospedado em um servidor da empresa hostgator, o dominio terá
 
 ### Servidor Banco de Dados
 O Banco de Dados ficará hospedado no phpmyadmin disponibilizado pela hostgator.
+
+## Organização das pastas
+![](./imagens/organização-das-pastas.png)
+
+### PASTA SISTEMA
+A pasta sistema armazenará todos os arquivos do sistema.
+
+### PASTA INFORMAÇÕES
+A pasta informações armazenará os arquivos html e php das áreas informativas do sistema.
+
+### PASTA CÁLCULOS
+A pasta cálculos armazenará os arquivos html e php das áreas de cálculos do sistema.
+
+### PASTA CADASTRO
+A pasta cadastro armazenará os arquivos html e php das áreas de cadastro do sistema.
+
+### PASTA LOGIN
+A pasta login armazenará os arquivos html e php das áreas de login e redefinição de senha do usuário.
+
+### PASTA ÁREA-DO-USUÁRIO
+A pasta área-do-usuário armazenará os arquivos html e php das áreas disponível para o usuário logado e todas suas funções.
+
+### PASTA PÁGINA-INICIAL
+A pasta página-inicial armazenará os arquivos html e php da página inicial do sistema.
+
+### PASTA CSS
+A pasta css armazenará o arquivo css que estilizara todo o sistema.
+
+### PASTA IMAGENS
+A pasta imagens armazenará todas as imagens utilizadas no sistema.
+
+### PASTA JS
+A pasta js armazenará o arquivo javascript utilizado em todo sistema.
+
+### CONFIG
+A pasta config armazenará o arquivo php que faz ligação do sistema com o banco de dados.
+
