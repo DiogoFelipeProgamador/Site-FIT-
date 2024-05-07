@@ -184,6 +184,6 @@ A pasta imagens armazenará todas as imagens utilizadas no sistema.
 ### PASTA JS
 A pasta js armazenará o arquivo javascript utilizado em todo sistema.
 
-### CONFIG
+### PASTA CONFIG
 A pasta config armazenará o arquivo php que faz ligação do sistema com o banco de dados.
 
