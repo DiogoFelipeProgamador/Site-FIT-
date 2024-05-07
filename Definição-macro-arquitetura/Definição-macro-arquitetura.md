@@ -22,7 +22,7 @@ O usuário que estiver logado no sistema poderá entrar em seu perfil para acess
 O usuário que estiver logado e entrado em seu perfil poderá responder o questionário para receber recomendações do sistema.
 
 #### 7.EXIBIR RECOMENDAÇÕES
-O sistema exibirá recomendações no perfil dos usuários que tenham respondido o questionário.
+O sistema exibirá recomendações no perfil dos usuários cadastrados respondido o questionário.
 
 #### 8.ALTERAR SEUS DADOS
 O usuário que esta logado e entrou em seu perfil poderá alterar seus dados cadastrados. 
@@ -46,7 +46,7 @@ Caso estejam corretos iniciará a sessão do usuário.
 
 #### 12.INICIAR SESSÃO DO USUÁRIO
 
-Após o sistema verificar se as informações inseridas estão corretas, irá iniciar a sessão do usuário.
+Após o sistema verificar se as informações de login inseridas estão corretas, irá iniciar a sessão do usuário.
 
 #### 13.EXIBITR RESULTADO DOS CÁLCULOS
 
@@ -150,6 +150,9 @@ O sistema ficará hospedado em um servidor da empresa hostgator, o dominio terá
 
 ### Servidor Banco de Dados
 O Banco de Dados ficará hospedado no phpmyadmin disponibilizado pela hostgator.
+
+## Criptografia
+A criptografia utilizada no sistema será 
 
 ## Organização das pastas
 ![](./imagens/organização-das-pastas.png)
