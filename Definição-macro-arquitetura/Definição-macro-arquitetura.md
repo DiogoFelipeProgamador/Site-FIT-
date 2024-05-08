@@ -152,7 +152,7 @@ O sistema ficará hospedado em um servidor da empresa hostgator, o dominio terá
 O Banco de Dados ficará hospedado no phpmyadmin disponibilizado pela hostgator.
 
 ## Criptografia
-A criptografia utilizada no sistema será a senha_hash disponibilizada pelo PHP.
+A criptografia será utilizada no sistema para proteger a senha do usuário a criptografia utilizada será a senha_hash disponibilizada pelo PHP. 
 
 ## Organização das pastas
 ![](./imagens/organização-das-pastas.png)
