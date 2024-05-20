@@ -157,6 +157,11 @@ A criptografia será utilizada no sistema para proteger a senha do usuário a cr
 ## Organização das pastas
 ![](./imagens/organização-das-pastas.png)
 
+### ORGANIZAÇÃO DOS ARQUIVOS
+![](./imagens/organização-dos-arquivos.png)
+
+Todas as pastas dentro da pasta sistema terão seus arquivos organizados dentro de pastas como front-end ou back-end.
+
 ### PASTA SISTEMA
 A pasta sistema armazenará todos os arquivos do sistema.
 
