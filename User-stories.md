@@ -9,6 +9,8 @@
 
 **PARA QUE** eu entenda em qual  perfil eu me enquadro 
 
+**Cenários:**
+
 **Cenário 1: Informações preenchidas corretamente**
 
 Dado que a medida usada no site é metros e quilogramas E minha altura é 1.7 metros E meu peso é 80 kg 
@@ -38,6 +40,8 @@ E é exibido na tela a mensagem "Você está obeso: 61.03"
 **POSSO** calcular a minha TMB
 
 **PARA QUE** eu consiga montar minha alimentação corretamente
+
+**Cenários:**
 
 **Cenário 1: Informações preenchidas corretamente**
 
@@ -69,6 +73,8 @@ E é exibido na tela a mensagem "Seu metabolismo basal é: 846.22"
 
 **PARA QUE** eu aprenda sobre esse assunto
 
+**Cenários:**
+
 **Cenário 1: Informações preenchidas corretamente**
 
 Dado que  a idade e o sexo mudam o resultado do cálculo E eu  tenho 80 anos E sou homem
@@ -98,6 +104,8 @@ E é exibido na tela a mensagem "Fc mínima ideal: 166.00 bpm" "Fc máxima ideal
 **POSSO** fazer um cadastro no site
 
 **PARA QUE** o site obtenha meus dados e forneça informações baseadas neles
+
+**Cenários:**
 
 **Cenário 1: Cadastro bem sucedido**
 
@@ -149,6 +157,8 @@ E é exibido na tela a mensagem "Não é possível realizar o cadastro, nome de 
 
 **PARA QUE** eu perceba o meu progresso
 
+**Cenários:**
+
 <br>
 
 **STORY 6 Questionários e recomendações (Prioridade Média - Complexidade Alta - Tempo 2 semanas):**
@@ -158,6 +168,8 @@ E é exibido na tela a mensagem "Não é possível realizar o cadastro, nome de 
 **POSSO** responder questionários
 
 **PARA QUE** eu receba do sistema recomendações
+
+**Cenários:**
 
 **Cenário 1: Questionários respondidos**
 
@@ -190,6 +202,8 @@ E é exibido na tela "As recomendações serão exibidas após responder os ques
 
 **PARA QUE** eu acesse minha conta
 
+**Cenários:**
+
 **Cenário 1: Login conluído com sucesso**
 Dado que o sistema precisa que eu informe meu e-mail e senha cadastrado para prosseguir com o meu login E eu informo corretamente os meus dados
 
@@ -219,6 +233,8 @@ E é exibido na tela a mensagem "E-mail ou senha incorretos".
 **POSSO** Redefinir a minha senha
 
 **PARA QUE** eu consiga recuperar o acesso a minha conta
+
+**Cenários:**
 
 **Cenário 1: Redefinição solicitada com sucesso**
 
